@@ -1,0 +1,14 @@
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\bin\Debug\net6.0\Restaurant.exe
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\bin\Debug\net6.0\Restaurant.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll

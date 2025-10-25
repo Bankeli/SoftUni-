@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|d:\\my workflow\\github\\c_sharp_oop\\playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\food\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\beverage\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\beverage\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\beverage\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\beverage\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\beverage\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|d:\\my workflow\\github\\c_sharp_oop\\restaurant\\restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|d:\\my workflow\\github\\c_sharp_oop\\needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|d:\\my workflow\\github\\c_sharp_oop\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|d:\\my workflow\\github\\c_sharp_oop\\person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\reptile\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\mammal\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\mammal\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\mammal\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\reptile\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\zoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\zoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|d:\\my workflow\\github\\c_sharp_oop\\zoo\\reptile\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|d:\\my workflow\\github\\c_sharp_oop\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\my workflow\\github\\c_sharp_oop\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BladeKnight.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\BladeKnight.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\BladeKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:47:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DarkKnight.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkKnight.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:46:53.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Knight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Knight.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Knight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:46:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\SoulMaster.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\SoulMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:44:57.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DarkWizard.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkWizard.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkWizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:44:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Wizard.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:43:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MuseElf.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\MuseElf.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\MuseElf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:43:22.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Elf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Elf.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Elf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Elf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:42:49.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Hero.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Hero.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\PlayersAndMonsters\\Hero.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:40:25.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Tea.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage\\Tea.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Tea.cs",
+              "RelativeToolTip": "Restaurant\\Beverage\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:28:43.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Product.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Product.cs",
+              "RelativeToolTip": "Restaurant\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:16:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage\\ColdBeverage.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\ColdBeverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage\\ColdBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:29:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage\\HotBeverage.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\HotBeverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage\\HotBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:27:53.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Coffee.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage\\Coffee.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Coffee.cs",
+              "RelativeToolTip": "Restaurant\\Beverage\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:27:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Cake.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Cake.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Cake.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Cake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:26:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Soup.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Soup.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Soup.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Soup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:25:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Fish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Fish.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Fish.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:22:54.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Dessert.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Dessert.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Dessert.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Dessert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:22:29.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\MainDish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\MainDish.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\MainDish.cs",
+              "RelativeToolTip": "Restaurant\\Food\\MainDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:21:31.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Starter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Starter.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Starter.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:20:49.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Food.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food\\Food.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Food\\Food.cs",
+              "RelativeToolTip": "Restaurant\\Food\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:18:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Beverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage\\Beverage.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Beverage\\Beverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:17:44.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Restaurant",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Restaurant.csproj",
+              "RelativeDocumentMoniker": "Restaurant\\Restaurant.csproj",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\Restaurant.csproj",
+              "RelativeToolTip": "Restaurant\\Restaurant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T11:01:11.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\StartUp.cs",
+              "RelativeDocumentMoniker": "Restaurant\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Restaurant\\StartUp.cs",
+              "RelativeToolTip": "Restaurant\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:16:06.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FamilyCar.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\FamilyCar.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\FamilyCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:50:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SportCar.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\SportCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\SportCar.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\SportCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\SportCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:49:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CrossMotorcycle.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:48:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RaceMotorcycle.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:36:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Car.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Car.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Car.cs",
+              "RelativeToolTip": "NeedForSpeed\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:29:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\StartUp.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\StartUp.cs",
+              "RelativeToolTip": "NeedForSpeed\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:17:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Motorcycle.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:25:38.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Vehicle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Vehicle.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\NeedForSpeed\\Vehicle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:17:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Bear.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal\\Bear.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Bear.cs",
+              "RelativeToolTip": "Zoo\\Mammal\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:29:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Gorilla.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Gorilla.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal\\Gorilla.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Gorilla.cs",
+              "RelativeToolTip": "Zoo\\Mammal\\Gorilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:29:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Mammal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal\\Mammal.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Mammal\\Mammal.cs",
+              "RelativeToolTip": "Zoo\\Mammal\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:28:41.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Zoo",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Zoo.csproj",
+              "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Zoo.csproj",
+              "RelativeToolTip": "Zoo\\Zoo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T09:27:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Snake.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile\\Snake.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Snake.cs",
+              "RelativeToolTip": "Zoo\\Reptile\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:27:41.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Lizard.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Lizard.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile\\Lizard.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Lizard.cs",
+              "RelativeToolTip": "Zoo\\Reptile\\Lizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:25:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Reptile.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile\\Reptile.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Reptile\\Reptile.cs",
+              "RelativeToolTip": "Zoo\\Reptile\\Reptile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:25:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:24:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Child.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\Child.cs",
+              "RelativeDocumentMoniker": "Person\\Child.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\Child.cs",
+              "RelativeToolTip": "Person\\Child.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:15:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\Person.cs",
+              "RelativeToolTip": "Person\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:15:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:13:11.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:03:35.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

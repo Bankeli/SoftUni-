@@ -1,0 +1,14 @@
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\bin\Debug\net6.0\Person.exe
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\bin\Debug\net6.0\Person.deps.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\bin\Debug\net6.0\Person.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\bin\Debug\net6.0\Person.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\refint\Person.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Person\obj\Debug\net6.0\ref\Person.dll

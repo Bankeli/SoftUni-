@@ -1,0 +1,14 @@
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\bin\Debug\net6.0\Zoo.exe
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\bin\Debug\net6.0\Zoo.deps.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\bin\Debug\net6.0\Zoo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\bin\Debug\net6.0\Zoo.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Zoo\obj\Debug\net6.0\ref\Zoo.dll
