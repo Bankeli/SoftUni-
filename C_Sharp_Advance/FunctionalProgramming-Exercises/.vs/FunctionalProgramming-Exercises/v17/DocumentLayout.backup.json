@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2719420F-5FA2-4809-9D41-63E05BA95BA9}|08.ListOfPredicate\\08.ListOfPredicate.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\08.listofpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2719420F-5FA2-4809-9D41-63E05BA95BA9}|08.ListOfPredicate\\08.ListOfPredicate.csproj|solutionrelative:08.listofpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F042ADD-B7A4-4CA8-A093-007A786DA16B}|07.PredicateForNames\\07.PredicateForNames.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F042ADD-B7A4-4CA8-A093-007A786DA16B}|07.PredicateForNames\\07.PredicateForNames.csproj|solutionrelative:07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D5DF0-377A-476F-B05F-8F5AEFEA9C57}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D5DF0-377A-476F-B05F-8F5AEFEA9C57}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|solutionrelative:06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280B455D-B1F0-43C3-810E-A8500B40F52A}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280B455D-B1F0-43C3-810E-A8500B40F52A}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|solutionrelative:05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233B6B79-E658-4014-B92F-77FA645E7DE8}|04.FindEvenOrOdd\\04.FindEvenOrOdd.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\04.findevenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233B6B79-E658-4014-B92F-77FA645E7DE8}|04.FindEvenOrOdd\\04.FindEvenOrOdd.csproj|solutionrelative:04.findevenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71D04A5-9DF9-4C62-93B3-A3F92F68D18E}|03.CustomMiniFunction\\03.CustomMiniFunction.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\03.customminifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71D04A5-9DF9-4C62-93B3-A3F92F68D18E}|03.CustomMiniFunction\\03.CustomMiniFunction.csproj|solutionrelative:03.customminifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51DDA0C-EEBC-4654-A601-8164E4551D22}|00.Demo\\00.Demo.csproj|d:\\my workflow\\github\\c_sharp_advance\\functionalprogramming-exercises\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51DDA0C-EEBC-4654-A601-8164E4551D22}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\08.ListOfPredicate\\Program.cs",
+              "RelativeDocumentMoniker": "08.ListOfPredicate\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\08.ListOfPredicate\\Program.cs",
+              "RelativeToolTip": "08.ListOfPredicate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:28:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\07.PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.PredicateForNames\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\07.PredicateForNames\\Program.cs",
+              "RelativeToolTip": "07.PredicateForNames\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:05:57.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\06.ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReverseAndExclude\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\06.ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "06.ReverseAndExclude\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:56:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\05.AppliedArithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05.AppliedArithmetics\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\05.AppliedArithmetics\\Program.cs",
+              "RelativeToolTip": "05.AppliedArithmetics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:22:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\04.FindEvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "04.FindEvenOrOdd\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\04.FindEvenOrOdd\\Program.cs",
+              "RelativeToolTip": "04.FindEvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:57:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\03.CustomMiniFunction\\Program.cs",
+              "RelativeDocumentMoniker": "03.CustomMiniFunction\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\03.CustomMiniFunction\\Program.cs",
+              "RelativeToolTip": "03.CustomMiniFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:31:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\FunctionalProgramming-Exercises\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:19:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

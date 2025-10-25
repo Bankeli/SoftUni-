@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\bin\Debug\net8.0\10.Ladybug.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\bin\Debug\net8.0\10.Ladybug.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\bin\Debug\net8.0\10.Ladybug.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\bin\Debug\net8.0\10.Ladybug.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\bin\Debug\net8.0\10.Ladybug.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\refint\10.Ladybug.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\10.Ladybug.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\10.Ladybug\obj\Debug\net8.0\ref\10.Ladybug.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|d:\\my workflow\\github\\c_sharp_advance\\defining classes - lab\\01.car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|solutionrelative:01.car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|d:\\my workflow\\github\\c_sharp_advance\\defining classes - lab\\01.car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|solutionrelative:01.car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|d:\\my workflow\\github\\c_sharp_advance\\defining classes - lab\\01.car\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|solutionrelative:01.car\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|d:\\my workflow\\github\\c_sharp_advance\\defining classes - lab\\01.car\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD7BB77-BAA4-4D97-9D2C-6CF1FAE13746}|01.Car\\01.Car.csproj|solutionrelative:01.car\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Tire.cs",
+              "RelativeDocumentMoniker": "01.Car\\Tire.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Tire.cs",
+              "RelativeToolTip": "01.Car\\Tire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:19:02.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Engine.cs",
+              "RelativeDocumentMoniker": "01.Car\\Engine.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Engine.cs",
+              "RelativeToolTip": "01.Car\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:17:06.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Car.cs",
+              "RelativeDocumentMoniker": "01.Car\\Car.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Car.cs",
+              "RelativeToolTip": "01.Car\\Car.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:36:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Program.cs",
+              "RelativeDocumentMoniker": "01.Car\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Defining Classes - Lab\\01.Car\\Program.cs*",
+              "RelativeToolTip": "01.Car\\Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:35:46.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

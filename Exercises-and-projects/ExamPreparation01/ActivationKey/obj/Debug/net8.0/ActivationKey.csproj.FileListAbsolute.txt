@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\bin\Debug\net8.0\ActivationKey.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\bin\Debug\net8.0\ActivationKey.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\bin\Debug\net8.0\ActivationKey.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\bin\Debug\net8.0\ActivationKey.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\bin\Debug\net8.0\ActivationKey.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\refint\ActivationKey.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ActivationKey.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\ActivationKey\obj\Debug\net8.0\ref\ActivationKey.dll

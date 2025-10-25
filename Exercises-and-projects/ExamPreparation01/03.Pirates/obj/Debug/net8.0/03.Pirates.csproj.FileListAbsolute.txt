@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\bin\Debug\net8.0\03.Pirates.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\bin\Debug\net8.0\03.Pirates.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\bin\Debug\net8.0\03.Pirates.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\bin\Debug\net8.0\03.Pirates.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\bin\Debug\net8.0\03.Pirates.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\refint\03.Pirates.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\03.Pirates.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\03.Pirates\obj\Debug\net8.0\ref\03.Pirates.dll

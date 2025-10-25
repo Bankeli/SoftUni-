@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\bin\Debug\net8.0\BombHasBeenPlanted.exe
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\bin\Debug\net8.0\BombHasBeenPlanted.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\bin\Debug\net8.0\BombHasBeenPlanted.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\bin\Debug\net8.0\BombHasBeenPlanted.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\bin\Debug\net8.0\BombHasBeenPlanted.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\refint\BombHasBeenPlanted.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\BombHasBeenPlanted.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\BombHasBeenPlanted\obj\Debug\net8.0\ref\BombHasBeenPlanted.dll

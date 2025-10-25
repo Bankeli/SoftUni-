@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\bin\Debug\net8.0\06.TriplesOfLatinLetters.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\bin\Debug\net8.0\06.TriplesOfLatinLetters.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\bin\Debug\net8.0\06.TriplesOfLatinLetters.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\bin\Debug\net8.0\06.TriplesOfLatinLetters.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\bin\Debug\net8.0\06.TriplesOfLatinLetters.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\refint\06.TriplesOfLatinLetters.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\06.TriplesOfLatinLetters\obj\Debug\net8.0\ref\06.TriplesOfLatinLetters.dll

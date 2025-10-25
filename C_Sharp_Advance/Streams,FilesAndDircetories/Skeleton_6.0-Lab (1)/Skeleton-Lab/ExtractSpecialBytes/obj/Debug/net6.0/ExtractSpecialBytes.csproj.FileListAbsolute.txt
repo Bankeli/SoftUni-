@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll

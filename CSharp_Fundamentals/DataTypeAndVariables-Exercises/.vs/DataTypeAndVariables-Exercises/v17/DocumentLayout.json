@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C27302-9D2D-4456-9EDC-1AA44776955A}|11.Snowballs\\11.Snowballs.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C27302-9D2D-4456-9EDC-1AA44776955A}|11.Snowballs\\11.Snowballs.csproj|solutionrelative:11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698F5829-274F-4A08-8B98-8D68583C1CE4}|10.Pokemon\\10.Pokemon.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698F5829-274F-4A08-8B98-8D68583C1CE4}|10.Pokemon\\10.Pokemon.csproj|solutionrelative:10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9907FA9-C8A9-4E6C-913F-A299061E526D}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9907FA9-C8A9-4E6C-913F-A299061E526D}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|solutionrelative:09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895D21F4-987F-4078-9025-EDCD966BF243}|08.BeerKegs\\08.BeerKegs.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895D21F4-987F-4078-9025-EDCD966BF243}|08.BeerKegs\\08.BeerKegs.csproj|solutionrelative:08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF24A57-7CCD-43D1-B647-546C0214D570}|07.WaterOverflow\\07.WaterOverflow.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF24A57-7CCD-43D1-B647-546C0214D570}|07.WaterOverflow\\07.WaterOverflow.csproj|solutionrelative:07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ED3753-405E-4CEC-B644-2CED686CF734}|06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\06.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ED3753-405E-4CEC-B644-2CED686CF734}|06.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj|solutionrelative:06.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D29A0FF-F57B-4B38-BB39-DB70E2E7BC75}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D29A0FF-F57B-4B38-BB39-DB70E2E7BC75}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|solutionrelative:05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE69543-5140-4978-BC85-CC7283CC77DA}|04.SumOfChars\\04.SumOfChars.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE69543-5140-4978-BC85-CC7283CC77DA}|04.SumOfChars\\04.SumOfChars.csproj|solutionrelative:04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D162F46-CA64-4B26-8457-CE69BE90DFAE}|03.Elevator\\03.Elevator.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D162F46-CA64-4B26-8457-CE69BE90DFAE}|03.Elevator\\03.Elevator.csproj|solutionrelative:03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3CCA8-F2CD-41BB-8DAB-C71924FCB564}|02.SumDigits\\02.SumDigits.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3CCA8-F2CD-41BB-8DAB-C71924FCB564}|02.SumDigits\\02.SumDigits.csproj|solutionrelative:02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFBE049-2A97-4174-A6B4-B1F19E56E07F}|01.IntegerOperation\\01.IntegerOperation.csproj|d:\\my workflow\\c#\\c# fundamentals\\datatypeandvariables-exercises\\01.integeroperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFBE049-2A97-4174-A6B4-B1F19E56E07F}|01.IntegerOperation\\01.IntegerOperation.csproj|solutionrelative:01.integeroperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\11.Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11.Snowballs\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\11.Snowballs\\Program.cs",
+              "RelativeToolTip": "11.Snowballs\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:10:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\10.Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "10.Pokemon\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\10.Pokemon\\Program.cs",
+              "RelativeToolTip": "10.Pokemon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:37:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\09.SpiceMustFlow\\Program.cs",
+              "RelativeDocumentMoniker": "09.SpiceMustFlow\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\09.SpiceMustFlow\\Program.cs",
+              "RelativeToolTip": "09.SpiceMustFlow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:58:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\08.BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "08.BeerKegs\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\08.BeerKegs\\Program.cs",
+              "RelativeToolTip": "08.BeerKegs\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:44:05.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\07.WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "07.WaterOverflow\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\07.WaterOverflow\\Program.cs",
+              "RelativeToolTip": "07.WaterOverflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:26:09.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\06.TriplesOfLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "06.TriplesOfLatinLetters\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\06.TriplesOfLatinLetters\\Program.cs",
+              "RelativeToolTip": "06.TriplesOfLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:18:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "05.PrintPartOfASCIITable\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeToolTip": "05.PrintPartOfASCIITable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:15:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\04.SumOfChars\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumOfChars\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\04.SumOfChars\\Program.cs",
+              "RelativeToolTip": "04.SumOfChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:10:43.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\03.Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "03.Elevator\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\03.Elevator\\Program.cs",
+              "RelativeToolTip": "03.Elevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:07:29.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\02.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "02.SumDigits\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\02.SumDigits\\Program.cs",
+              "RelativeToolTip": "02.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:05:00.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\01.IntegerOperation\\Program.cs",
+              "RelativeDocumentMoniker": "01.IntegerOperation\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\DataTypeAndVariables-Exercises\\01.IntegerOperation\\Program.cs",
+              "RelativeToolTip": "01.IntegerOperation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:00:11.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

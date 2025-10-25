@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\bin\Debug\net8.0\06.MiddleCharacter.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\bin\Debug\net8.0\06.MiddleCharacter.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\bin\Debug\net8.0\06.MiddleCharacter.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\bin\Debug\net8.0\06.MiddleCharacter.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\bin\Debug\net8.0\06.MiddleCharacter.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\refint\06.MiddleCharacter.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\06.MiddleCharacter.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\06.MiddleCharacter\obj\Debug\net8.0\ref\06.MiddleCharacter.dll

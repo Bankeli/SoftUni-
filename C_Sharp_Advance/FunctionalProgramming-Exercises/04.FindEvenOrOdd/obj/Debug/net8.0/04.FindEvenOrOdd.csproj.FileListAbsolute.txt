@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\bin\Debug\net8.0\04.FindEvenOrOdd.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\bin\Debug\net8.0\04.FindEvenOrOdd.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\bin\Debug\net8.0\04.FindEvenOrOdd.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\bin\Debug\net8.0\04.FindEvenOrOdd.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\bin\Debug\net8.0\04.FindEvenOrOdd.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\refint\04.FindEvenOrOdd.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\04.FindEvenOrOdd.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\04.FindEvenOrOdd\obj\Debug\net8.0\ref\04.FindEvenOrOdd.dll

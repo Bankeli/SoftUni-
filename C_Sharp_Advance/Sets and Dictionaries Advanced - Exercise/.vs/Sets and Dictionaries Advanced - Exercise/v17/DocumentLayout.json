@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFFA682-482A-4A86-857D-0B965250B6CB}|08.Ranking\\08.Ranking.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\08.ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFFA682-482A-4A86-857D-0B965250B6CB}|08.Ranking\\08.Ranking.csproj|solutionrelative:08.ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0FCDB9-B333-4461-B0E2-EA040D6F32FD}|05.CountSymbol\\05.CountSymbol.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\05.countsymbol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0FCDB9-B333-4461-B0E2-EA040D6F32FD}|05.CountSymbol\\05.CountSymbol.csproj|solutionrelative:05.countsymbol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF7F30E-4885-43F2-9293-925EA1D74560}|06.Wardrobe\\06.Wardrobe.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF7F30E-4885-43F2-9293-925EA1D74560}|06.Wardrobe\\06.Wardrobe.csproj|solutionrelative:06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F9CECD-0141-43FD-9EA6-EB80EEF522D2}|07.TheVLogger\\07.TheVLogger.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\07.thevlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F9CECD-0141-43FD-9EA6-EB80EEF522D2}|07.TheVLogger\\07.TheVLogger.csproj|solutionrelative:07.thevlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2619E76-39E5-4564-8A51-5CCF73E3A511}|04.EvenTimes\\04.EvenTimes.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2619E76-39E5-4564-8A51-5CCF73E3A511}|04.EvenTimes\\04.EvenTimes.csproj|solutionrelative:04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242232DF-FAE5-40EE-82B2-E383503BE5A5}|03.PeriodicTable\\03.PeriodicTable.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\03.periodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242232DF-FAE5-40EE-82B2-E383503BE5A5}|03.PeriodicTable\\03.PeriodicTable.csproj|solutionrelative:03.periodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76D9680-FBEA-4AAB-B3C5-2911137D246F}|02.SetsOfElements\\02.SetsOfElements.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76D9680-FBEA-4AAB-B3C5-2911137D246F}|02.SetsOfElements\\02.SetsOfElements.csproj|solutionrelative:02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5507F1-C044-4707-B28D-2101FD7B3CB7}|01.UniqueUsernames\\01.UniqueUsernames.csproj|d:\\my workflow\\github\\c_sharp_advance\\sets and dictionaries advanced - exercise\\01.uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5507F1-C044-4707-B28D-2101FD7B3CB7}|01.UniqueUsernames\\01.UniqueUsernames.csproj|solutionrelative:01.uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\08.Ranking\\Program.cs",
+              "RelativeDocumentMoniker": "08.Ranking\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\08.Ranking\\Program.cs",
+              "RelativeToolTip": "08.Ranking\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:31:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\07.TheVLogger\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheVLogger\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\07.TheVLogger\\Program.cs",
+              "RelativeToolTip": "07.TheVLogger\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:44:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\06.Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "06.Wardrobe\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\06.Wardrobe\\Program.cs",
+              "RelativeToolTip": "06.Wardrobe\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:24:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\05.CountSymbol\\Program.cs",
+              "RelativeDocumentMoniker": "05.CountSymbol\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\05.CountSymbol\\Program.cs",
+              "RelativeToolTip": "05.CountSymbol\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:17:51.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\04.EvenTimes\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenTimes\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\04.EvenTimes\\Program.cs",
+              "RelativeToolTip": "04.EvenTimes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:03:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\03.PeriodicTable\\Program.cs",
+              "RelativeDocumentMoniker": "03.PeriodicTable\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\03.PeriodicTable\\Program.cs",
+              "RelativeToolTip": "03.PeriodicTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:52:52.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\02.SetsOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.SetsOfElements\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\02.SetsOfElements\\Program.cs",
+              "RelativeToolTip": "02.SetsOfElements\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:37:05.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\01.UniqueUsernames\\Program.cs",
+              "RelativeDocumentMoniker": "01.UniqueUsernames\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Sets and Dictionaries Advanced - Exercise\\01.UniqueUsernames\\Program.cs",
+              "RelativeToolTip": "01.UniqueUsernames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:34:16.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

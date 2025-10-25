@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\bin\Debug\net8.0\01.CountCharsInString.exe
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\bin\Debug\net8.0\01.CountCharsInString.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\bin\Debug\net8.0\01.CountCharsInString.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\bin\Debug\net8.0\01.CountCharsInString.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\bin\Debug\net8.0\01.CountCharsInString.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\refint\01.CountCharsInString.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\01.CountCharsInString.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\01.CountCharsInString\obj\Debug\net8.0\ref\01.CountCharsInString.dll

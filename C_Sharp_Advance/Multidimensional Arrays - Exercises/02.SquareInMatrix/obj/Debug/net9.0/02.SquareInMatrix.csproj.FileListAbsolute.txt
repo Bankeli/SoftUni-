@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\bin\Debug\net9.0\02.SquareInMatrix.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\bin\Debug\net9.0\02.SquareInMatrix.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\bin\Debug\net9.0\02.SquareInMatrix.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\bin\Debug\net9.0\02.SquareInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\bin\Debug\net9.0\02.SquareInMatrix.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\refint\02.SquareInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\02.SquareInMatrix.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\02.SquareInMatrix\obj\Debug\net9.0\ref\02.SquareInMatrix.dll

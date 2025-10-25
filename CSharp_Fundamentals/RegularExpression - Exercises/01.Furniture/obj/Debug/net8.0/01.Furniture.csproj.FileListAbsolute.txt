@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\bin\Debug\net8.0\01.Furniture.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\bin\Debug\net8.0\01.Furniture.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\bin\Debug\net8.0\01.Furniture.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\bin\Debug\net8.0\01.Furniture.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\bin\Debug\net8.0\01.Furniture.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\refint\01.Furniture.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\01.Furniture.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\01.Furniture\obj\Debug\net8.0\ref\01.Furniture.dll

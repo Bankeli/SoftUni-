@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\bin\Debug\net8.0\FishingCompetition.exe
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\bin\Debug\net8.0\FishingCompetition.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\bin\Debug\net8.0\FishingCompetition.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\bin\Debug\net8.0\FishingCompetition.dll
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\bin\Debug\net8.0\FishingCompetition.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.dll
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\refint\FishingCompetition.dll
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\FishingCompetition.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\FishingCompetition\FishingCompetition\obj\Debug\net8.0\ref\FishingCompetition.dll

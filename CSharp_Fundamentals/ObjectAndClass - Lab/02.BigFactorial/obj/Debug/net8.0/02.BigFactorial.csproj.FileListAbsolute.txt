@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.exe
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.deps.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\bin\Debug\net8.0\02.BigFactorial.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\refint\02.BigFactorial.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\02.BigFactorial.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\02.BigFactorial\obj\Debug\net8.0\ref\02.BigFactorial.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\bin\Debug\net8.0\EscapeTheMaze.exe
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\bin\Debug\net8.0\EscapeTheMaze.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\bin\Debug\net8.0\EscapeTheMaze.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\bin\Debug\net8.0\EscapeTheMaze.dll
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\bin\Debug\net8.0\EscapeTheMaze.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.dll
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\refint\EscapeTheMaze.dll
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\EscapeTheMaze.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\EscapeTheMaze\EscapeTheMaze\obj\Debug\net8.0\ref\EscapeTheMaze.dll

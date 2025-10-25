@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.exe
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.deps.json
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.runtimeconfig.json
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.dll
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.pdb
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.dll
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\refint\02.EnglishNameOfTheLastDigit.dll
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.pdb
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.genruntimeconfig.cache
+D:\My Workflow\C# Basic\03.GamingStore\02.EnglishNameOfTheLastDigit\obj\Debug\net8.0\ref\02.EnglishNameOfTheLastDigit.dll

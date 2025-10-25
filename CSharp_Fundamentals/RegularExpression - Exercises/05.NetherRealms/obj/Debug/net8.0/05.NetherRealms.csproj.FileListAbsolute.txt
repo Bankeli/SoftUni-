@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\refint\05.NetherRealms.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\05.NetherRealms\obj\Debug\net8.0\ref\05.NetherRealms.dll

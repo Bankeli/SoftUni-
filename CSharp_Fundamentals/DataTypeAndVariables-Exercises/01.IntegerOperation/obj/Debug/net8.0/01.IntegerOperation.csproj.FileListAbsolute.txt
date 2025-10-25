@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\bin\Debug\net8.0\01.IntegerOperation.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\bin\Debug\net8.0\01.IntegerOperation.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\bin\Debug\net8.0\01.IntegerOperation.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\bin\Debug\net8.0\01.IntegerOperation.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\bin\Debug\net8.0\01.IntegerOperation.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\refint\01.IntegerOperation.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\01.IntegerOperation.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\01.IntegerOperation\obj\Debug\net8.0\ref\01.IntegerOperation.dll

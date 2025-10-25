@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\bin\Debug\net8.0\WorldTour.exe
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\bin\Debug\net8.0\WorldTour.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\bin\Debug\net8.0\WorldTour.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\bin\Debug\net8.0\WorldTour.dll
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\bin\Debug\net8.0\WorldTour.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.dll
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\refint\WorldTour.dll
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\WorldTour.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\WorldTour\obj\Debug\net8.0\ref\WorldTour.dll

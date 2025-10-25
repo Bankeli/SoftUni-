@@ -1,0 +1,21 @@
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\bin\Debug\net8.0\03.Songs.exe
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\bin\Debug\net8.0\03.Songs.deps.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\bin\Debug\net8.0\03.Songs.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\bin\Debug\net8.0\03.Songs.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\bin\Debug\net8.0\03.Songs.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\refint\03.Songs.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\ref\03.Songs.dll
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfoInputs.cache
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.AssemblyInfo.cs
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.csproj.CoreCompileInputs.cache
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.dll
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\refint\03.Songs.dll
+G:\Други компютри\Моят компютър\C#\C# Fundamentals\ObjectAndClass - Lab\03.Songs\obj\Debug\net8.0\03.Songs.pdb

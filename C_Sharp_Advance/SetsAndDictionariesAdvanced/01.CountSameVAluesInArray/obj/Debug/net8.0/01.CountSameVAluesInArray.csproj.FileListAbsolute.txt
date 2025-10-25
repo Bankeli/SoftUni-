@@ -1,0 +1,14 @@
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\bin\Debug\net8.0\01.CountSameVAluesInArray.exe
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\bin\Debug\net8.0\01.CountSameVAluesInArray.deps.json
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\bin\Debug\net8.0\01.CountSameVAluesInArray.runtimeconfig.json
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\bin\Debug\net8.0\01.CountSameVAluesInArray.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\bin\Debug\net8.0\01.CountSameVAluesInArray.pdb
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.AssemblyInfoInputs.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.AssemblyInfo.cs
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.csproj.CoreCompileInputs.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\refint\01.CountSameVAluesInArray.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.pdb
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\01.CountSameVAluesInArray.genruntimeconfig.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\01.CountSameVAluesInArray\obj\Debug\net8.0\ref\01.CountSameVAluesInArray.dll

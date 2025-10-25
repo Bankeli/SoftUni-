@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AC1FA2-E678-459E-9612-A256ACE10233}|07.PascalTriangle\\07.PascalTriangle.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\07.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AC1FA2-E678-459E-9612-A256ACE10233}|07.PascalTriangle\\07.PascalTriangle.csproj|solutionrelative:07.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F81C884-3CA9-4AFC-A11A-DEE2604AF831}|06.JaggedArrayModifier\\06.JaggedArrayModifier.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\06.jaggedarraymodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F81C884-3CA9-4AFC-A11A-DEE2604AF831}|06.JaggedArrayModifier\\06.JaggedArrayModifier.csproj|solutionrelative:06.jaggedarraymodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99428190-8712-4539-A2D2-8F38B15842E9}|05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\05.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99428190-8712-4539-A2D2-8F38B15842E9}|05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj|solutionrelative:05.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E3F284-BE7D-40FA-87D2-7F510341EE22}|01.SumMatrixElement\\01.SumMatrixElement.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\01.summatrixelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E3F284-BE7D-40FA-87D2-7F510341EE22}|01.SumMatrixElement\\01.SumMatrixElement.csproj|solutionrelative:01.summatrixelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C49D02-55A5-40C6-B579-91D5073B9F9E}|04.SymbolInMatrix\\04.SymbolInMatrix.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\04.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C49D02-55A5-40C6-B579-91D5073B9F9E}|04.SymbolInMatrix\\04.SymbolInMatrix.csproj|solutionrelative:04.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF72695-12F6-4B21-AF60-F98D24A03B42}|03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\03.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF72695-12F6-4B21-AF60-F98D24A03B42}|03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj|solutionrelative:03.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1276FEC-6701-4D56-AF4B-8EC6FD52E8A4}|02.SumMatrixClumns\\02.SumMatrixClumns.csproj|d:\\my workflow\\github\\c_sharp_advance\\multidimensional arrays\\02.summatrixclumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1276FEC-6701-4D56-AF4B-8EC6FD52E8A4}|02.SumMatrixClumns\\02.SumMatrixClumns.csproj|solutionrelative:02.summatrixclumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\07.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "07.PascalTriangle\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\07.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "07.PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:28:56.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\06.JaggedArrayModifier\\Program.cs",
+              "RelativeDocumentMoniker": "06.JaggedArrayModifier\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\06.JaggedArrayModifier\\Program.cs",
+              "RelativeToolTip": "06.JaggedArrayModifier\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:59:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\05.SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "05.SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\05.SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "05.SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:36:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\04.SymbolInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "04.SymbolInMatrix\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\04.SymbolInMatrix\\Program.cs",
+              "RelativeToolTip": "04.SymbolInMatrix\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:19:04.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\03.PrimaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "03.PrimaryDiagonal\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\03.PrimaryDiagonal\\Program.cs",
+              "RelativeToolTip": "03.PrimaryDiagonal\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:12:31.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\02.SumMatrixClumns\\Program.cs",
+              "RelativeDocumentMoniker": "02.SumMatrixClumns\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\02.SumMatrixClumns\\Program.cs",
+              "RelativeToolTip": "02.SumMatrixClumns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:02:31.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\01.SumMatrixElement\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumMatrixElement\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\Multidimensional Arrays\\01.SumMatrixElement\\Program.cs",
+              "RelativeToolTip": "01.SumMatrixElement\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:55:04.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

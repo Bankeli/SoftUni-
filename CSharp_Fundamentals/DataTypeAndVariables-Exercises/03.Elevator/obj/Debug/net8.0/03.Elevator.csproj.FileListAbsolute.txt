@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\bin\Debug\net8.0\03.Elevator.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\bin\Debug\net8.0\03.Elevator.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\bin\Debug\net8.0\03.Elevator.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\bin\Debug\net8.0\03.Elevator.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\bin\Debug\net8.0\03.Elevator.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\refint\03.Elevator.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\03.Elevator.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\03.Elevator\obj\Debug\net8.0\ref\03.Elevator.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\bin\Debug\net8.0\IteratorsAndComparators.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\bin\Debug\net8.0\IteratorsAndComparators.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\bin\Debug\net8.0\IteratorsAndComparators.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\bin\Debug\net8.0\IteratorsAndComparators.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\bin\Debug\net8.0\IteratorsAndComparators.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\refint\IteratorsAndComparators.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\IteratorsAndComparators.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\IteratorsAndComparators-Exercises\IteratorsAndComparators\obj\Debug\net8.0\ref\IteratorsAndComparators.dll

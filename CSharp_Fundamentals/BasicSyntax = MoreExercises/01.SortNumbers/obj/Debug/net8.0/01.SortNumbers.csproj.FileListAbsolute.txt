@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.exe
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.deps.json
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\refint\01.SortNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\BasicSyntax = MoreExercises\01.SortNumbers\obj\Debug\net8.0\ref\01.SortNumbers.dll

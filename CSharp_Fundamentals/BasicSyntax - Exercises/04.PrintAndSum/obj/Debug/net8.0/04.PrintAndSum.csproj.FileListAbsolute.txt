@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.exe
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.deps.json
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.dll
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.pdb
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.dll
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\refint\04.PrintAndSum.dll
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.pdb
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\04.PrintAndSum\obj\Debug\net8.0\ref\04.PrintAndSum.dll

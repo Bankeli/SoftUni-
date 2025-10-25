@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\bin\Debug\net9.0\01.DiagonalDifference.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\bin\Debug\net9.0\01.DiagonalDifference.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\bin\Debug\net9.0\01.DiagonalDifference.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\bin\Debug\net9.0\01.DiagonalDifference.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\bin\Debug\net9.0\01.DiagonalDifference.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\refint\01.DiagonalDifference.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\01.DiagonalDifference.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\01.DiagonalDifference\obj\Debug\net9.0\ref\01.DiagonalDifference.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net8.0\07.PascalTriangle.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net8.0\07.PascalTriangle.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net8.0\07.PascalTriangle.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net8.0\07.PascalTriangle.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net8.0\07.PascalTriangle.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\refint\07.PascalTriangle.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\07.PascalTriangle.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net8.0\ref\07.PascalTriangle.dll

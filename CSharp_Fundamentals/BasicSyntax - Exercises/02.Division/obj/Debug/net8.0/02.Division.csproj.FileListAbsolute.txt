@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\02.Division\bin\Debug\net8.0\02.Division.exe
+D:\My Workflow\C# Basic\01.Ages\02.Division\bin\Debug\net8.0\02.Division.deps.json
+D:\My Workflow\C# Basic\01.Ages\02.Division\bin\Debug\net8.0\02.Division.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\02.Division\bin\Debug\net8.0\02.Division.dll
+D:\My Workflow\C# Basic\01.Ages\02.Division\bin\Debug\net8.0\02.Division.pdb
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.dll
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\refint\02.Division.dll
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.pdb
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\02.Division.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\02.Division\obj\Debug\net8.0\ref\02.Division.dll

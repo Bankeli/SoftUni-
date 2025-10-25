@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\StackAndQueue-Exercises.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\StackAndQueue-Exercises.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\StackAndQueue-Exercises.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\StackAndQueue-Exercises.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\StackAndQueue-Exercises.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\refint\StackAndQueue-Exercises.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\StackAndQueue-Exercises.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\ref\StackAndQueue-Exercises.dll

@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.exe
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.deps.json
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.dll
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.pdb
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.dll
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\refint\07.VendingMachine.dll
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.pdb
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\07.VendingMachine\obj\Debug\net8.0\ref\07.VendingMachine.dll

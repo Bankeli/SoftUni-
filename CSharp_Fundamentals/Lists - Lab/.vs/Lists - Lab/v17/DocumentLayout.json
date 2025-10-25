@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09542571-864E-4205-8F8B-90C289C947A0}|05.RemoveNegativesAndRevers\\05.RemoveNegativesAndRevers.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\05.removenegativesandrevers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09542571-864E-4205-8F8B-90C289C947A0}|05.RemoveNegativesAndRevers\\05.RemoveNegativesAndRevers.csproj|solutionrelative:05.removenegativesandrevers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BDB18-5ECA-48FD-8D39-5300255BEA23}|04.ListOfProduct\\04.ListOfProduct.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\04.listofproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BDB18-5ECA-48FD-8D39-5300255BEA23}|04.ListOfProduct\\04.ListOfProduct.csproj|solutionrelative:04.listofproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F66CE-85BE-459B-B0D0-47D17CD32A0F}|03.MergingLists\\03.MergingLists.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F66CE-85BE-459B-B0D0-47D17CD32A0F}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6221DB-AB2C-4953-A552-87BAA099B130}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6221DB-AB2C-4953-A552-87BAA099B130}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDFEBC1-784B-4010-A4AD-26557F2119B4}|02.GaussTrick\\02.GaussTrick.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\02.gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDFEBC1-784B-4010-A4AD-26557F2119B4}|02.GaussTrick\\02.GaussTrick.csproj|solutionrelative:02.gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72726FEC-7B81-4568-9815-32C6B2F1CD5A}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72726FEC-7B81-4568-9815-32C6B2F1CD5A}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033FFB77-D1A7-485F-A45B-EDA6CC71DB6F}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|d:\\my workflow\\c#\\c# fundamentals\\lists - lab\\07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033FFB77-D1A7-485F-A45B-EDA6CC71DB6F}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|solutionrelative:07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\05.RemoveNegativesAndRevers\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativesAndRevers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\05.RemoveNegativesAndRevers\\Program.cs",
+              "RelativeToolTip": "05.RemoveNegativesAndRevers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:01:53.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\04.ListOfProduct\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOfProduct\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\04.ListOfProduct\\Program.cs",
+              "RelativeToolTip": "04.ListOfProduct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:58:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\03.MergingLists\\Program.cs",
+              "RelativeToolTip": "03.MergingLists\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:47:24.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:16:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\02.GaussTrick\\Program.cs",
+              "RelativeDocumentMoniker": "02.GaussTrick\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\02.GaussTrick\\Program.cs",
+              "RelativeToolTip": "02.GaussTrick\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:55:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:04:54.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\Lists - Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "06.ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:43:57.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

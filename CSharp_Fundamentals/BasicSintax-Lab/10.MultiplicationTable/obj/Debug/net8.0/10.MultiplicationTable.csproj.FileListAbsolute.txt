@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\bin\Debug\net8.0\10.MultiplicationTable.exe
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\bin\Debug\net8.0\10.MultiplicationTable.deps.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\bin\Debug\net8.0\10.MultiplicationTable.runtimeconfig.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\bin\Debug\net8.0\10.MultiplicationTable.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\bin\Debug\net8.0\10.MultiplicationTable.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.AssemblyInfo.cs
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\refint\10.MultiplicationTable.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\10.MultiplicationTable.genruntimeconfig.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\10.MultiplicationTable\obj\Debug\net8.0\ref\10.MultiplicationTable.dll

@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\bin\Debug\net8.0\02.PrintNumbersInReversOrder.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\bin\Debug\net8.0\02.PrintNumbersInReversOrder.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\bin\Debug\net8.0\02.PrintNumbersInReversOrder.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\bin\Debug\net8.0\02.PrintNumbersInReversOrder.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\bin\Debug\net8.0\02.PrintNumbersInReversOrder.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\refint\02.PrintNumbersInReversOrder.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\02.PrintNumbersInReversOrder.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\02.PrintNumbersInReversOrder\obj\Debug\net8.0\ref\02.PrintNumbersInReversOrder.dll

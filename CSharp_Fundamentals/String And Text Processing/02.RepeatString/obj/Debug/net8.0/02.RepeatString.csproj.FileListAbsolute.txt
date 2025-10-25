@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\bin\Debug\net8.0\02.RepeatString.exe
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\bin\Debug\net8.0\02.RepeatString.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\bin\Debug\net8.0\02.RepeatString.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\bin\Debug\net8.0\02.RepeatString.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\bin\Debug\net8.0\02.RepeatString.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\refint\02.RepeatString.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\02.RepeatString.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\02.RepeatString\obj\Debug\net8.0\ref\02.RepeatString.dll

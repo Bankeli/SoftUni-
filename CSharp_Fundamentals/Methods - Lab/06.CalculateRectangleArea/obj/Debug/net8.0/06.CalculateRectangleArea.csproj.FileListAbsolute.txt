@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\bin\Debug\net8.0\06.CalculateRectangleArea.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\bin\Debug\net8.0\06.CalculateRectangleArea.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\bin\Debug\net8.0\06.CalculateRectangleArea.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\bin\Debug\net8.0\06.CalculateRectangleArea.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\bin\Debug\net8.0\06.CalculateRectangleArea.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\refint\06.CalculateRectangleArea.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\06.CalculateRectangleArea.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\06.CalculateRectangleArea\obj\Debug\net8.0\ref\06.CalculateRectangleArea.dll

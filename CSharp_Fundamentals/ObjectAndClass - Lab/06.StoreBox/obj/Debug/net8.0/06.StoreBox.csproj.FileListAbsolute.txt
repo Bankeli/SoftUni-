@@ -1,0 +1,21 @@
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.GeneratedMSBuildEditorConfig.editorconfig
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.AssemblyInfoInputs.cache
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.AssemblyInfo.cs
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.csproj.CoreCompileInputs.cache
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.dll
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\refint\06.StoreBox.dll
+G:\Други компютри\Моят лаптоп\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\bin\Debug\net8.0\06.StoreBox.exe
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\bin\Debug\net8.0\06.StoreBox.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\bin\Debug\net8.0\06.StoreBox.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\bin\Debug\net8.0\06.StoreBox.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\bin\Debug\net8.0\06.StoreBox.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\refint\06.StoreBox.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\06.StoreBox.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectAndClass - Lab\06.StoreBox\obj\Debug\net8.0\ref\06.StoreBox.dll

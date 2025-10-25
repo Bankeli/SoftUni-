@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\bin\Debug\net9.0\03.MaximalSum.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\bin\Debug\net9.0\03.MaximalSum.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\bin\Debug\net9.0\03.MaximalSum.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\bin\Debug\net9.0\03.MaximalSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\bin\Debug\net9.0\03.MaximalSum.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\refint\03.MaximalSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\03.MaximalSum.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\03.MaximalSum\obj\Debug\net9.0\ref\03.MaximalSum.dll

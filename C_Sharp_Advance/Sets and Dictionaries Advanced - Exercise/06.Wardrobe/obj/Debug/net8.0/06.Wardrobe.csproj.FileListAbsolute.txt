@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\refint\06.Wardrobe.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\net8.0\ref\06.Wardrobe.dll

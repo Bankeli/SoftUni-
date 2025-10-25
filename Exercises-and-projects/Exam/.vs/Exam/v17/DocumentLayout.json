@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11191B-C662-4738-9437-6E00E97268E8}|Problem2\\Problem2.csproj|d:\\my workflow\\c#\\exercises\\exam\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E11191B-C662-4738-9437-6E00E97268E8}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A798D6DF-8434-4564-B8CB-5B1E9A3D21FC}|Problem\\Problem.csproj|d:\\my workflow\\c#\\exercises\\exam\\problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A798D6DF-8434-4564-B8CB-5B1E9A3D21FC}|Problem\\Problem.csproj|solutionrelative:problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB04CBE-BC2C-48C0-8500-C3CE5C3A94D1}|Problem3\\Problem3.csproj|d:\\my workflow\\c#\\exercises\\exam\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB04CBE-BC2C-48C0-8500-C3CE5C3A94D1}|Problem3\\Problem3.csproj|solutionrelative:problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem3\\Program.cs",
+              "RelativeToolTip": "Problem3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:10:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem2\\Program.cs",
+              "RelativeToolTip": "Problem2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:10:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem\\Program.cs",
+              "RelativeDocumentMoniker": "Problem\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Exercises\\Exam\\Problem\\Program.cs",
+              "RelativeToolTip": "Problem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:09:30.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

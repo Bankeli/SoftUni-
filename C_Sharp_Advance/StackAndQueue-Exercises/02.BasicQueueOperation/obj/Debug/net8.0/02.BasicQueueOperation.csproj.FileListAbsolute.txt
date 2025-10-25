@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\bin\Debug\net8.0\02.BasicQueueOperation.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\bin\Debug\net8.0\02.BasicQueueOperation.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\bin\Debug\net8.0\02.BasicQueueOperation.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\bin\Debug\net8.0\02.BasicQueueOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\bin\Debug\net8.0\02.BasicQueueOperation.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\refint\02.BasicQueueOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\02.BasicQueueOperation.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\02.BasicQueueOperation\obj\Debug\net8.0\ref\02.BasicQueueOperation.dll

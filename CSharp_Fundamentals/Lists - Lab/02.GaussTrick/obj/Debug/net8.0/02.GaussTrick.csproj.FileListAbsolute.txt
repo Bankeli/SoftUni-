@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.exe
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\refint\02.GaussTrick.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\02.GaussTrick\obj\Debug\net8.0\ref\02.GaussTrick.dll

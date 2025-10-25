@@ -1,0 +1,14 @@
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.exe
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.deps.json
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.runtimeconfig.json
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.pdb
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfo.cs
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\refint\08.SoftUniParty.dll
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.pdb
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.genruntimeconfig.cache
+C:\Users\yukib\source\repos\SetsAndDictionariesAdvanced\08.SoftUniParty\obj\Debug\net8.0\ref\08.SoftUniParty.dll

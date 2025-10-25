@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\bin\Debug\net8.0\02.SumMatrixClumns.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\bin\Debug\net8.0\02.SumMatrixClumns.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\bin\Debug\net8.0\02.SumMatrixClumns.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\bin\Debug\net8.0\02.SumMatrixClumns.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\bin\Debug\net8.0\02.SumMatrixClumns.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\refint\02.SumMatrixClumns.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\02.SumMatrixClumns.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\02.SumMatrixClumns\obj\Debug\net8.0\ref\02.SumMatrixClumns.dll

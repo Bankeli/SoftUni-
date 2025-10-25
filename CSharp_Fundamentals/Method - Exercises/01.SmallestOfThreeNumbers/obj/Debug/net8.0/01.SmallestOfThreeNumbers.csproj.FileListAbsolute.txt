@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\refint\01.SmallestOfThreeNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\01.SmallestOfThreeNumbers\obj\Debug\net8.0\ref\01.SmallestOfThreeNumbers.dll

@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\bin\Debug\net8.0\04.ReversArrayOfString.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\bin\Debug\net8.0\04.ReversArrayOfString.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\bin\Debug\net8.0\04.ReversArrayOfString.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\bin\Debug\net8.0\04.ReversArrayOfString.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\bin\Debug\net8.0\04.ReversArrayOfString.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\refint\04.ReversArrayOfString.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\04.ReversArrayOfString.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\04.ReversArrayOfString\obj\Debug\net8.0\ref\04.ReversArrayOfString.dll

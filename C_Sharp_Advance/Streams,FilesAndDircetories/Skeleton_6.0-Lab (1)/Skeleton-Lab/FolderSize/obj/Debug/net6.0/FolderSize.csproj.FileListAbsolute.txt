@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

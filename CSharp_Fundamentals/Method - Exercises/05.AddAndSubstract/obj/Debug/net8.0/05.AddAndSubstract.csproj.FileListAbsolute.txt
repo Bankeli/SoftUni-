@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\bin\Debug\net8.0\05.AddAndSubstract.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\bin\Debug\net8.0\05.AddAndSubstract.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\bin\Debug\net8.0\05.AddAndSubstract.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\bin\Debug\net8.0\05.AddAndSubstract.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\bin\Debug\net8.0\05.AddAndSubstract.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\refint\05.AddAndSubstract.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\05.AddAndSubstract.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\05.AddAndSubstract\obj\Debug\net8.0\ref\05.AddAndSubstract.dll

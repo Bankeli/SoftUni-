@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\bin\Debug\net8.0\03.PrimaryDiagonal.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\refint\03.PrimaryDiagonal.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\03.PrimaryDiagonal.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\03.PrimaryDiagonal\obj\Debug\net8.0\ref\03.PrimaryDiagonal.dll

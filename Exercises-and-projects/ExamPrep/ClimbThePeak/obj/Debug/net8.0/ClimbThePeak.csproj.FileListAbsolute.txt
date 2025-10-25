@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\bin\Debug\net8.0\ClimbThePeak.exe
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\bin\Debug\net8.0\ClimbThePeak.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\bin\Debug\net8.0\ClimbThePeak.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\bin\Debug\net8.0\ClimbThePeak.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\bin\Debug\net8.0\ClimbThePeak.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\refint\ClimbThePeak.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ClimbThePeak.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPrep\ClimbThePeak\obj\Debug\net8.0\ref\ClimbThePeak.dll

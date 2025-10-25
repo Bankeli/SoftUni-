@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\bin\Debug\net8.0\04.BackIn30Minutes.exe
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\bin\Debug\net8.0\04.BackIn30Minutes.deps.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\bin\Debug\net8.0\04.BackIn30Minutes.runtimeconfig.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\bin\Debug\net8.0\04.BackIn30Minutes.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\bin\Debug\net8.0\04.BackIn30Minutes.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.AssemblyInfo.cs
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\refint\04.BackIn30Minutes.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\04.BackIn30Minutes.genruntimeconfig.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\04.BackIn30Minutes\obj\Debug\net8.0\ref\04.BackIn30Minutes.dll

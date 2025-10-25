@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\bin\Debug\net8.0\OffRoadChallange.exe
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\bin\Debug\net8.0\OffRoadChallange.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\bin\Debug\net8.0\OffRoadChallange.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\bin\Debug\net8.0\OffRoadChallange.dll
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\bin\Debug\net8.0\OffRoadChallange.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.dll
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\refint\OffRoadChallange.dll
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\OffRoadChallange.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\OffRoadChallange\OffRoadChallange\obj\Debug\net8.0\ref\OffRoadChallange.dll

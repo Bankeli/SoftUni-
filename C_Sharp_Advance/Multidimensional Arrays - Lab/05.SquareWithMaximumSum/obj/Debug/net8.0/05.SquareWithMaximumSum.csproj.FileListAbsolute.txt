@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\bin\Debug\net8.0\05.SquareWithMaximumSum.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\refint\05.SquareWithMaximumSum.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\05.SquareWithMaximumSum.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\05.SquareWithMaximumSum\obj\Debug\net8.0\ref\05.SquareWithMaximumSum.dll

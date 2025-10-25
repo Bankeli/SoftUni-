@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\bin\Debug\net8.0\04.ListOfProduct.exe
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\bin\Debug\net8.0\04.ListOfProduct.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\bin\Debug\net8.0\04.ListOfProduct.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\bin\Debug\net8.0\04.ListOfProduct.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\bin\Debug\net8.0\04.ListOfProduct.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\refint\04.ListOfProduct.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\04.ListOfProduct.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\04.ListOfProduct\obj\Debug\net8.0\ref\04.ListOfProduct.dll

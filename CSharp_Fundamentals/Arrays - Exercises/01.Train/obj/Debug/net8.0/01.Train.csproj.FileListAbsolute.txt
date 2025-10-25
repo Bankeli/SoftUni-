@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\bin\Debug\net8.0\01.Train.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\bin\Debug\net8.0\01.Train.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\bin\Debug\net8.0\01.Train.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\bin\Debug\net8.0\01.Train.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\bin\Debug\net8.0\01.Train.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\refint\01.Train.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\01.Train.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\01.Train\obj\Debug\net8.0\ref\01.Train.dll

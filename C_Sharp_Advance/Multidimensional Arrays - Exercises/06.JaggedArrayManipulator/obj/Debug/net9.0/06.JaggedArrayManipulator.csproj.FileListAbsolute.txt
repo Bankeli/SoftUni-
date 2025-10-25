@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\bin\Debug\net9.0\06.JaggedArrayManipulator.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\bin\Debug\net9.0\06.JaggedArrayManipulator.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\bin\Debug\net9.0\06.JaggedArrayManipulator.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\bin\Debug\net9.0\06.JaggedArrayManipulator.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\bin\Debug\net9.0\06.JaggedArrayManipulator.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\refint\06.JaggedArrayManipulator.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\06.JaggedArrayManipulator.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\06.JaggedArrayManipulator\obj\Debug\net9.0\ref\06.JaggedArrayManipulator.dll

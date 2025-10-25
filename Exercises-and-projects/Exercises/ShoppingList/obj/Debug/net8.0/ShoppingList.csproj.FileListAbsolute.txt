@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\bin\Debug\net8.0\ShoppingList.exe
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\bin\Debug\net8.0\ShoppingList.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\bin\Debug\net8.0\ShoppingList.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\bin\Debug\net8.0\ShoppingList.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\bin\Debug\net8.0\ShoppingList.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\refint\ShoppingList.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ShoppingList.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShoppingList\obj\Debug\net8.0\ref\ShoppingList.dll

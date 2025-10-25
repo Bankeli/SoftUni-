@@ -1,0 +1,14 @@
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\bin\Debug\net8.0\MissionToMars.exe
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\bin\Debug\net8.0\MissionToMars.deps.json
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\bin\Debug\net8.0\MissionToMars.runtimeconfig.json
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\bin\Debug\net8.0\MissionToMars.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\bin\Debug\net8.0\MissionToMars.pdb
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.AssemblyInfoInputs.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.AssemblyInfo.cs
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.csproj.CoreCompileInputs.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\refint\MissionToMars.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.pdb
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\MissionToMars.genruntimeconfig.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\MissionToMars\obj\Debug\net8.0\ref\MissionToMars.dll

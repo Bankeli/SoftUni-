@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\bin\Debug\net8.0\HeroesOfCodeAndLogic.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\bin\Debug\net8.0\HeroesOfCodeAndLogic.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\bin\Debug\net8.0\HeroesOfCodeAndLogic.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\bin\Debug\net8.0\HeroesOfCodeAndLogic.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\bin\Debug\net8.0\HeroesOfCodeAndLogic.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\refint\HeroesOfCodeAndLogic.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\HeroesOfCodeAndLogic.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\HeroesOfCodeAndLogic\obj\Debug\net8.0\ref\HeroesOfCodeAndLogic.dll

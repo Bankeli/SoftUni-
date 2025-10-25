@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\refint\03.ExtractFile.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\03.ExtractFile\obj\Debug\net8.0\ref\03.ExtractFile.dll

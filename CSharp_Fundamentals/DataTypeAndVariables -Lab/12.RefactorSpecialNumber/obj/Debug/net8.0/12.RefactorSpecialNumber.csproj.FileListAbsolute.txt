@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\bin\Debug\net8.0\12.RefactorSpecialNumber.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\bin\Debug\net8.0\12.RefactorSpecialNumber.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\bin\Debug\net8.0\12.RefactorSpecialNumber.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\bin\Debug\net8.0\12.RefactorSpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\bin\Debug\net8.0\12.RefactorSpecialNumber.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\refint\12.RefactorSpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\12.RefactorSpecialNumber.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\12.RefactorSpecialNumber\obj\Debug\net8.0\ref\12.RefactorSpecialNumber.dll

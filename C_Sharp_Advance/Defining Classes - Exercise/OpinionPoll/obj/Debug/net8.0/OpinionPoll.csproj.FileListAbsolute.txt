@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\bin\Debug\net8.0\OpinionPoll.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\bin\Debug\net8.0\OpinionPoll.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\bin\Debug\net8.0\OpinionPoll.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\bin\Debug\net8.0\OpinionPoll.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\bin\Debug\net8.0\OpinionPoll.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\refint\OpinionPoll.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\OpinionPoll.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\OpinionPoll\obj\Debug\net8.0\ref\OpinionPoll.dll

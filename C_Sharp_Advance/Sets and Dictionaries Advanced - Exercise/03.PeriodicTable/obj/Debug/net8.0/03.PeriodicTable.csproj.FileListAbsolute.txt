@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\refint\03.PeriodicTable.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\03.PeriodicTable\obj\Debug\net8.0\ref\03.PeriodicTable.dll

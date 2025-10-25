@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\bin\Debug\net8.0\AdAstra.exe
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\bin\Debug\net8.0\AdAstra.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\bin\Debug\net8.0\AdAstra.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\bin\Debug\net8.0\AdAstra.dll
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\bin\Debug\net8.0\AdAstra.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.dll
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\refint\AdAstra.dll
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\AdAstra.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\AdAstra\obj\Debug\net8.0\ref\AdAstra.dll

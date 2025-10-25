@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A68A9F0-BA99-4CE6-A6F0-1A1BBA529265}|11.MathOperation\\11.MathOperation.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\11.mathoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A68A9F0-BA99-4CE6-A6F0-1A1BBA529265}|11.MathOperation\\11.MathOperation.csproj|solutionrelative:11.mathoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E10EA03-796C-47B5-91B6-090621763E18}|09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E10EA03-796C-47B5-91B6-090621763E18}|09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj|solutionrelative:09.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F8249E-D011-4371-9BAA-90C9AE0B69EA}|08.MathPower\\08.MathPower.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F8249E-D011-4371-9BAA-90C9AE0B69EA}|08.MathPower\\08.MathPower.csproj|solutionrelative:08.mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEA4268-CD53-484B-A3A6-6F0534A8D1AC}|10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEA4268-CD53-484B-A3A6-6F0534A8D1AC}|10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj|solutionrelative:10.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87BF48A-593C-46D7-A515-941B527BCC53}|07.RepeatString\\07.RepeatString.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87BF48A-593C-46D7-A515-941B527BCC53}|07.RepeatString\\07.RepeatString.csproj|solutionrelative:07.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94991-B105-49D5-8344-56623A56DD2A}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94991-B105-49D5-8344-56623A56DD2A}|06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj|solutionrelative:06.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDF994F-CF49-4C78-B572-0E3FF83F5D28}|05.Order\\05.Order.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\05.order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDF994F-CF49-4C78-B572-0E3FF83F5D28}|05.Order\\05.Order.csproj|solutionrelative:05.order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7489202B-CE23-4715-BE8D-02187E20E64D}|04.PrintingTriangle\\04.PrintingTriangle.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7489202B-CE23-4715-BE8D-02187E20E64D}|04.PrintingTriangle\\04.PrintingTriangle.csproj|solutionrelative:04.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6513C01-E13E-4AEF-934D-4DD28974DECD}|03.Calculations\\03.Calculations.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6513C01-E13E-4AEF-934D-4DD28974DECD}|03.Calculations\\03.Calculations.csproj|solutionrelative:03.calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D1990C-A993-4197-B8ED-0A0B49A551A2}|02.Grades\\02.Grades.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1990C-A993-4197-B8ED-0A0B49A551A2}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF061A5-42C3-4508-9FE2-16F0BF8601D5}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\methods - lab\\01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF061A5-42C3-4508-9FE2-16F0BF8601D5}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|solutionrelative:01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\11.MathOperation\\Program.cs",
+              "RelativeDocumentMoniker": "11.MathOperation\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\11.MathOperation\\Program.cs",
+              "RelativeToolTip": "11.MathOperation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:39:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\09.GreaterOfTwoValues\\Program.cs",
+              "RelativeDocumentMoniker": "09.GreaterOfTwoValues\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\09.GreaterOfTwoValues\\Program.cs",
+              "RelativeToolTip": "09.GreaterOfTwoValues\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:15:49.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\10.MultiplyEvensByOdds\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplyEvensByOdds\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\10.MultiplyEvensByOdds\\Program.cs",
+              "RelativeToolTip": "10.MultiplyEvensByOdds\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:53:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\08.MathPower\\Program.cs",
+              "RelativeDocumentMoniker": "08.MathPower\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\08.MathPower\\Program.cs",
+              "RelativeToolTip": "08.MathPower\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:37:05.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\07.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "07.RepeatString\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\07.RepeatString\\Program.cs",
+              "RelativeToolTip": "07.RepeatString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:22:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "06.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\06.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "06.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:19:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\05.Order\\Program.cs",
+              "RelativeDocumentMoniker": "05.Order\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\05.Order\\Program.cs",
+              "RelativeToolTip": "05.Order\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:00:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\04.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintingTriangle\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\04.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "04.PrintingTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:02:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\03.Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "03.Calculations\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\03.Calculations\\Program.cs",
+              "RelativeToolTip": "03.Calculations\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:36:15.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\02.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02.Grades\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\02.Grades\\Program.cs",
+              "RelativeToolTip": "02.Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:28:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SignOfIntegerNumbers\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Methods - Lab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeToolTip": "01.SignOfIntegerNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:11:18.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

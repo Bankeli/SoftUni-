@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555D969C-9C6A-4CF1-8CBD-1907A2EBDD7F}|07.StringExplosion\\07.StringExplosion.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D969C-9C6A-4CF1-8CBD-1907A2EBDD7F}|07.StringExplosion\\07.StringExplosion.csproj|solutionrelative:07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB11BFD-2BBE-4311-8399-3313DA17F773}|06\\06..csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB11BFD-2BBE-4311-8399-3313DA17F773}|06\\06..csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378A7F99-E317-41D3-815D-511E505C9E83}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378A7F99-E317-41D3-815D-511E505C9E83}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|solutionrelative:06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C8F174-C291-4F6E-BF59-5687CE6894A2}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C8F174-C291-4F6E-BF59-5687CE6894A2}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|solutionrelative:08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C730033-F15D-445E-A77D-D7CB22A94A71}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C730033-F15D-445E-A77D-D7CB22A94A71}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|solutionrelative:05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9073BE5E-78A3-44A6-81CA-CD916E24F9E0}|04.CaesarCipher\\04.CaesarCipher.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9073BE5E-78A3-44A6-81CA-CD916E24F9E0}|04.CaesarCipher\\04.CaesarCipher.csproj|solutionrelative:04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C0CA6-D14D-4706-9E94-FCCE71F98F9D}|03.ExtractFile\\03.ExtractFile.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C0CA6-D14D-4706-9E94-FCCE71F98F9D}|03.ExtractFile\\03.ExtractFile.csproj|solutionrelative:03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709630D8-ADEB-41CD-AA80-CC1A669D5933}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709630D8-ADEB-41CD-AA80-CC1A669D5933}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|solutionrelative:02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C1D484-A5D7-4EA1-AB4A-5104165DEEC2}|01.ValidUsername\\01.ValidUsername.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing - exercises\\01.validusername\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C1D484-A5D7-4EA1-AB4A-5104165DEEC2}|01.ValidUsername\\01.ValidUsername.csproj|solutionrelative:01.validusername\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\07.StringExplosion\\Program.cs",
+              "RelativeDocumentMoniker": "07.StringExplosion\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\07.StringExplosion\\Program.cs*",
+              "RelativeToolTip": "07.StringExplosion\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:54:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\06\\Program.cs",
+              "RelativeDocumentMoniker": "06\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\06\\Program.cs",
+              "RelativeToolTip": "06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:09:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReplaceRepeatingChars\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeToolTip": "06.ReplaceRepeatingChars\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:47:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.LettersChangeNumbers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeToolTip": "08.LettersChangeNumbers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:05:12.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplyBigNumber\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeToolTip": "05.MultiplyBigNumber\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:08:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\04.CaesarCipher\\Program.cs",
+              "RelativeDocumentMoniker": "04.CaesarCipher\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\04.CaesarCipher\\Program.cs",
+              "RelativeToolTip": "04.CaesarCipher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:55:54.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\03.ExtractFile\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExtractFile\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\03.ExtractFile\\Program.cs",
+              "RelativeToolTip": "03.ExtractFile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:45:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\02.CharacterMultiplier\\Program.cs",
+              "RelativeDocumentMoniker": "02.CharacterMultiplier\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\02.CharacterMultiplier\\Program.cs",
+              "RelativeToolTip": "02.CharacterMultiplier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:26:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\01.ValidUsername\\Program.cs",
+              "RelativeDocumentMoniker": "01.ValidUsername\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String and Text Processing - Exercises\\01.ValidUsername\\Program.cs",
+              "RelativeToolTip": "01.ValidUsername\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:13:04.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\bin\Debug\net8.0\05.CountSymbol.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\bin\Debug\net8.0\05.CountSymbol.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\bin\Debug\net8.0\05.CountSymbol.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\bin\Debug\net8.0\05.CountSymbol.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\bin\Debug\net8.0\05.CountSymbol.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\refint\05.CountSymbol.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\05.CountSymbol.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\05.CountSymbol\obj\Debug\net8.0\ref\05.CountSymbol.dll

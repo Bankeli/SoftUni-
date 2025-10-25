@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\bin\Debug\net8.0\06.StudentsAcademy.exe
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\bin\Debug\net8.0\06.StudentsAcademy.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\bin\Debug\net8.0\06.StudentsAcademy.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\bin\Debug\net8.0\06.StudentsAcademy.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\bin\Debug\net8.0\06.StudentsAcademy.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\refint\06.StudentsAcademy.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\06.StudentsAcademy.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\06.StudentsAcademy\obj\Debug\net8.0\ref\06.StudentsAcademy.dll

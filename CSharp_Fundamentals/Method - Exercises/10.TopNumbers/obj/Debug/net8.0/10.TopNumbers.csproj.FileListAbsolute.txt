@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\bin\Debug\net8.0\10.TopNumbers.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\bin\Debug\net8.0\10.TopNumbers.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\bin\Debug\net8.0\10.TopNumbers.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\bin\Debug\net8.0\10.TopNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\bin\Debug\net8.0\10.TopNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\refint\10.TopNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\10.TopNumbers.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\10.TopNumbers\obj\Debug\net8.0\ref\10.TopNumbers.dll

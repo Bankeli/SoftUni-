@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\bin\Debug\net8.0\07.ConcatName.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\bin\Debug\net8.0\07.ConcatName.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\bin\Debug\net8.0\07.ConcatName.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\bin\Debug\net8.0\07.ConcatName.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\bin\Debug\net8.0\07.ConcatName.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\refint\07.ConcatName.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\07.ConcatName.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\07.ConcatName\obj\Debug\net8.0\ref\07.ConcatName.dll

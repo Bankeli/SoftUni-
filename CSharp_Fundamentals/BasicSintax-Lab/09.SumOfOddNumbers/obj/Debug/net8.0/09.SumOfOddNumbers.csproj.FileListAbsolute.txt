@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.exe
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.deps.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.runtimeconfig.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\refint\09.SumOfOddNumbers.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.genruntimeconfig.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\ref\09.SumOfOddNumbers.dll

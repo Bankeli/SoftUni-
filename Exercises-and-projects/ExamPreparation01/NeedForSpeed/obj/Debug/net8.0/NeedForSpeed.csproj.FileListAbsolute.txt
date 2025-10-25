@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\refint\NeedForSpeed.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\NeedForSpeed\obj\Debug\net8.0\ref\NeedForSpeed.dll

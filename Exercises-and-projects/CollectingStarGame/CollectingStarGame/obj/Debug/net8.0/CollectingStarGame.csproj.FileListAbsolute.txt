@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\bin\Debug\net8.0\CollectingStarGame.exe
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\bin\Debug\net8.0\CollectingStarGame.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\bin\Debug\net8.0\CollectingStarGame.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\bin\Debug\net8.0\CollectingStarGame.dll
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\bin\Debug\net8.0\CollectingStarGame.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.dll
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\refint\CollectingStarGame.dll
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\CollectingStarGame.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\CollectingStarGame\CollectingStarGame\obj\Debug\net8.0\ref\CollectingStarGame.dll

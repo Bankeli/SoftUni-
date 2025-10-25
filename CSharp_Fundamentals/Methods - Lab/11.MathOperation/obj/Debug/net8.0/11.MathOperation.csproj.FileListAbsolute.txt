@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\bin\Debug\net8.0\11.MathOperation.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\bin\Debug\net8.0\11.MathOperation.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\bin\Debug\net8.0\11.MathOperation.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\bin\Debug\net8.0\11.MathOperation.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\bin\Debug\net8.0\11.MathOperation.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\refint\11.MathOperation.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\11.MathOperation.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\11.MathOperation\obj\Debug\net8.0\ref\11.MathOperation.dll

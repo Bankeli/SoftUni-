@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\bin\Debug\net9.0\07.Knights.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\bin\Debug\net9.0\07.Knights.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\bin\Debug\net9.0\07.Knights.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\bin\Debug\net9.0\07.Knights.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\bin\Debug\net9.0\07.Knights.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\refint\07.Knights.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\07.Knights.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays - Exercises\07.Knights\obj\Debug\net9.0\ref\07.Knights.dll

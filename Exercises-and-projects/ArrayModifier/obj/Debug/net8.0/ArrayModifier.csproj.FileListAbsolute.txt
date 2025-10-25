@@ -1,0 +1,14 @@
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\bin\Debug\net8.0\ArrayModifier.exe
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\bin\Debug\net8.0\ArrayModifier.deps.json
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\bin\Debug\net8.0\ArrayModifier.runtimeconfig.json
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\bin\Debug\net8.0\ArrayModifier.dll
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\bin\Debug\net8.0\ArrayModifier.pdb
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.AssemblyInfoInputs.cache
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.AssemblyInfo.cs
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.dll
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\refint\ArrayModifier.dll
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.pdb
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ArrayModifier.genruntimeconfig.cache
+D:\My Workflow\C#\Exercises\CalculatorScript\ArrayModifier\obj\Debug\net8.0\ref\ArrayModifier.dll

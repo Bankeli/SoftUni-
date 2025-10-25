@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\refint\07.RepeatString.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\07.RepeatString\obj\Debug\net8.0\ref\07.RepeatString.dll

@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.exe
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\refint\06.VehicleCatalogue.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\06.VehicleCatalogue\obj\Debug\net8.0\ref\06.VehicleCatalogue.dll

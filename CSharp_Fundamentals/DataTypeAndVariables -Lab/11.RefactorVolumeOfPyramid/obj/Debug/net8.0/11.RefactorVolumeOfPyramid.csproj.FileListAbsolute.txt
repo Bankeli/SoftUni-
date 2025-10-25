@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\refint\11.RefactorVolumeOfPyramid.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\ref\11.RefactorVolumeOfPyramid.dll

@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\bin\Debug\net8.0\BasicSyntax-MoreExercises.exe
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\bin\Debug\net8.0\BasicSyntax-MoreExercises.deps.json
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\bin\Debug\net8.0\BasicSyntax-MoreExercises.runtimeconfig.json
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\bin\Debug\net8.0\BasicSyntax-MoreExercises.dll
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\bin\Debug\net8.0\BasicSyntax-MoreExercises.pdb
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.AssemblyInfo.cs
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.dll
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\refint\BasicSyntax-MoreExercises.dll
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.pdb
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\BasicSyntax-MoreExercises.genruntimeconfig.cache
+D:\My Workflow\C# Basic\03.GamingStore\BasicSyntax-MoreExercises\obj\Debug\net8.0\ref\BasicSyntax-MoreExercises.dll

@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\refint\02.CharacterMultiplier.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\02.CharacterMultiplier\obj\Debug\net8.0\ref\02.CharacterMultiplier.dll

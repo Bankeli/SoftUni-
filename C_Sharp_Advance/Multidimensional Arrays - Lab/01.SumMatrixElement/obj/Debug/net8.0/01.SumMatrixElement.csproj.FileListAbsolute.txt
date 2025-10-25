@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\bin\Debug\net8.0\01.SumMatrixElement.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\bin\Debug\net8.0\01.SumMatrixElement.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\bin\Debug\net8.0\01.SumMatrixElement.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\bin\Debug\net8.0\01.SumMatrixElement.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\bin\Debug\net8.0\01.SumMatrixElement.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\refint\01.SumMatrixElement.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\01.SumMatrixElement.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\01.SumMatrixElement\obj\Debug\net8.0\ref\01.SumMatrixElement.dll

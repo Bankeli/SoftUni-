@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\bin\Debug\net8.0\05.RemoveNegativesAndRevers.exe
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\bin\Debug\net8.0\05.RemoveNegativesAndRevers.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\bin\Debug\net8.0\05.RemoveNegativesAndRevers.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\bin\Debug\net8.0\05.RemoveNegativesAndRevers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\bin\Debug\net8.0\05.RemoveNegativesAndRevers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\refint\05.RemoveNegativesAndRevers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\05.RemoveNegativesAndRevers.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\05.RemoveNegativesAndRevers\obj\Debug\net8.0\ref\05.RemoveNegativesAndRevers.dll

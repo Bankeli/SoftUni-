@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\bin\Debug\net8.0\RapidCourier.exe
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\bin\Debug\net8.0\RapidCourier.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\bin\Debug\net8.0\RapidCourier.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\bin\Debug\net8.0\RapidCourier.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\bin\Debug\net8.0\RapidCourier.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\refint\RapidCourier.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\RapidCourier.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Rapid Courier\RapidCourier\obj\Debug\net8.0\ref\RapidCourier.dll

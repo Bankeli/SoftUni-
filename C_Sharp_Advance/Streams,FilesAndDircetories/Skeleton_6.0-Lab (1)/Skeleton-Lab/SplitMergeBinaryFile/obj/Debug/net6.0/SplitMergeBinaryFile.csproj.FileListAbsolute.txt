@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll

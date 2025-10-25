@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\bin\Debug\net8.0\Tuple.exe
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\bin\Debug\net8.0\Tuple.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\bin\Debug\net8.0\Tuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\bin\Debug\net8.0\Tuple.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Tuple\obj\Debug\net8.0\ref\Tuple.dll

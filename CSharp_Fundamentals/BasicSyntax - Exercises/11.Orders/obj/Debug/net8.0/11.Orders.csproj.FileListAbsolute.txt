@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\11.Orders\bin\Debug\net8.0\11.Orders.exe
+D:\My Workflow\C# Basic\01.Ages\11.Orders\bin\Debug\net8.0\11.Orders.deps.json
+D:\My Workflow\C# Basic\01.Ages\11.Orders\bin\Debug\net8.0\11.Orders.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\11.Orders\bin\Debug\net8.0\11.Orders.dll
+D:\My Workflow\C# Basic\01.Ages\11.Orders\bin\Debug\net8.0\11.Orders.pdb
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.dll
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\refint\11.Orders.dll
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.pdb
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\11.Orders.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\11.Orders\obj\Debug\net8.0\ref\11.Orders.dll

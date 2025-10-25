@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\bin\Debug\net8.0\12.EvenNumber.exe
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\bin\Debug\net8.0\12.EvenNumber.deps.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\bin\Debug\net8.0\12.EvenNumber.runtimeconfig.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\bin\Debug\net8.0\12.EvenNumber.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\bin\Debug\net8.0\12.EvenNumber.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.AssemblyInfo.cs
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\refint\12.EvenNumber.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\12.EvenNumber.genruntimeconfig.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\12.EvenNumber\obj\Debug\net8.0\ref\12.EvenNumber.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

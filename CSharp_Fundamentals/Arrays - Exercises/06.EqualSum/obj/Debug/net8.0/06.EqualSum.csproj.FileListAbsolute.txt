@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\bin\Debug\net8.0\06.EqualSum.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\bin\Debug\net8.0\06.EqualSum.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\bin\Debug\net8.0\06.EqualSum.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\bin\Debug\net8.0\06.EqualSum.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\bin\Debug\net8.0\06.EqualSum.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\refint\06.EqualSum.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\06.EqualSum.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\06.EqualSum\obj\Debug\net8.0\ref\06.EqualSum.dll

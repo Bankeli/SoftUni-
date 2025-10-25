@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\bin\Debug\net8.0\04.SoftuniParking.exe
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\bin\Debug\net8.0\04.SoftuniParking.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\bin\Debug\net8.0\04.SoftuniParking.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\bin\Debug\net8.0\04.SoftuniParking.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\bin\Debug\net8.0\04.SoftuniParking.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\refint\04.SoftuniParking.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\04.SoftuniParking.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\04.SoftuniParking\obj\Debug\net8.0\ref\04.SoftuniParking.dll

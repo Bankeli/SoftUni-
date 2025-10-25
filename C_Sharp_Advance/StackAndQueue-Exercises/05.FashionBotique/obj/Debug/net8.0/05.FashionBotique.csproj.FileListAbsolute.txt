@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\bin\Debug\net8.0\05.FashionBotique.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\bin\Debug\net8.0\05.FashionBotique.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\bin\Debug\net8.0\05.FashionBotique.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\bin\Debug\net8.0\05.FashionBotique.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\bin\Debug\net8.0\05.FashionBotique.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\refint\05.FashionBotique.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\05.FashionBotique.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\05.FashionBotique\obj\Debug\net8.0\ref\05.FashionBotique.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\bin\Debug\net8.0\04.SymbolInMatrix.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\bin\Debug\net8.0\04.SymbolInMatrix.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\bin\Debug\net8.0\04.SymbolInMatrix.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\bin\Debug\net8.0\04.SymbolInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\bin\Debug\net8.0\04.SymbolInMatrix.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\refint\04.SymbolInMatrix.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\04.SymbolInMatrix.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\04.SymbolInMatrix\obj\Debug\net8.0\ref\04.SymbolInMatrix.dll

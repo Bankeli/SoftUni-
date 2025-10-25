@@ -1,0 +1,14 @@
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\bin\Debug\net8.0\Fortress.exe
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\bin\Debug\net8.0\Fortress.deps.json
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\bin\Debug\net8.0\Fortress.runtimeconfig.json
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\bin\Debug\net8.0\Fortress.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\bin\Debug\net8.0\Fortress.pdb
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.AssemblyInfoInputs.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.AssemblyInfo.cs
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.csproj.CoreCompileInputs.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\refint\Fortress.dll
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.pdb
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\Fortress.genruntimeconfig.cache
+C:\Users\yukib\Desktop\Exam\MusicLibrary_Skeleton\Fortress\obj\Debug\net8.0\ref\Fortress.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\bin\Debug\net8.0\CarSalesman.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\bin\Debug\net8.0\CarSalesman.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\bin\Debug\net8.0\CarSalesman.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\bin\Debug\net8.0\CarSalesman.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\bin\Debug\net8.0\CarSalesman.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\refint\CarSalesman.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\CarSalesman.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\CarSalesman\obj\Debug\net8.0\ref\CarSalesman.dll

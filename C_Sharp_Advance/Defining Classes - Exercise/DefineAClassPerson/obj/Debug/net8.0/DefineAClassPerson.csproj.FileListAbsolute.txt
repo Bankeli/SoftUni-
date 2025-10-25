@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\bin\Debug\net8.0\DefineAClassPerson.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\bin\Debug\net8.0\DefineAClassPerson.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\bin\Debug\net8.0\DefineAClassPerson.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\bin\Debug\net8.0\DefineAClassPerson.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\bin\Debug\net8.0\DefineAClassPerson.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\refint\DefineAClassPerson.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\DefineAClassPerson.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\DefineAClassPerson\obj\Debug\net8.0\ref\DefineAClassPerson.dll

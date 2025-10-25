@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\bin\Debug\net8.0\00.Demo.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\bin\Debug\net8.0\00.Demo.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\bin\Debug\net8.0\00.Demo.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\bin\Debug\net8.0\00.Demo.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\bin\Debug\net8.0\00.Demo.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\refint\00.Demo.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\00.Demo.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\00.Demo\obj\Debug\net8.0\ref\00.Demo.dll

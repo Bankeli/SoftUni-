@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\refint\08.LettersChangeNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\08.LettersChangeNumbers\obj\Debug\net8.0\ref\08.LettersChangeNumbers.dll

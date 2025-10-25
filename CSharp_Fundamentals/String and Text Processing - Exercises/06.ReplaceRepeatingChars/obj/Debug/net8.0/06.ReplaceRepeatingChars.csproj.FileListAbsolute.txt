@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\bin\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\refint\06.ReplaceRepeatingChars.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06.ReplaceRepeatingChars\obj\Debug\net8.0\ref\06.ReplaceRepeatingChars.dll

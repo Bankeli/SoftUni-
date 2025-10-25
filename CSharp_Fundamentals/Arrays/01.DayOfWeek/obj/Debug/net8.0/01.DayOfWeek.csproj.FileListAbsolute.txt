@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\bin\Debug\net8.0\01.DayOfWeek.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\bin\Debug\net8.0\01.DayOfWeek.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\bin\Debug\net8.0\01.DayOfWeek.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\bin\Debug\net8.0\01.DayOfWeek.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\bin\Debug\net8.0\01.DayOfWeek.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\refint\01.DayOfWeek.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\01.DayOfWeek.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays\01.DayOfWeek\obj\Debug\net8.0\ref\01.DayOfWeek.dll

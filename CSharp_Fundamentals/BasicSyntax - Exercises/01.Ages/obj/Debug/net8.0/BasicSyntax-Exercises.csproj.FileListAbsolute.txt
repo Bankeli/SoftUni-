@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\bin\Debug\net8.0\BasicSyntax-Exercises.exe
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\bin\Debug\net8.0\BasicSyntax-Exercises.deps.json
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\bin\Debug\net8.0\BasicSyntax-Exercises.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\bin\Debug\net8.0\BasicSyntax-Exercises.dll
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\bin\Debug\net8.0\BasicSyntax-Exercises.pdb
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.dll
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\refint\BasicSyntax-Exercises.dll
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.pdb
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\BasicSyntax-Exercises.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\BasicSyntax-Exercises\obj\Debug\net8.0\ref\BasicSyntax-Exercises.dll

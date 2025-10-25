@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\bin\Debug\net8.0\06..exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\bin\Debug\net8.0\06..deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\bin\Debug\net8.0\06..runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\bin\Debug\net8.0\06..dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\bin\Debug\net8.0\06..pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\refint\06..dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\06..genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\06\obj\Debug\net8.0\ref\06..dll

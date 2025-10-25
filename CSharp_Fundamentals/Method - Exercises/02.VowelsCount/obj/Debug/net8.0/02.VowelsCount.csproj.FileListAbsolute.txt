@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\refint\02.VowelsCount.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\02.VowelsCount\obj\Debug\net8.0\ref\02.VowelsCount.dll

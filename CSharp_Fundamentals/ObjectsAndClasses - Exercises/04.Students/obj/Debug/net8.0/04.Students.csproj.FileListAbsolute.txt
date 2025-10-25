@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\bin\Debug\net8.0\04.Students.exe
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\bin\Debug\net8.0\04.Students.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\bin\Debug\net8.0\04.Students.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\bin\Debug\net8.0\04.Students.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\bin\Debug\net8.0\04.Students.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\refint\04.Students.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\04.Students.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\04.Students\obj\Debug\net8.0\ref\04.Students.dll

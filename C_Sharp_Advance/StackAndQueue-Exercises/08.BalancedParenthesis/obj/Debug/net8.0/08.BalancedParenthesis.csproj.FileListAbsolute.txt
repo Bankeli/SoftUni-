@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\refint\08.BalancedParenthesis.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\08.BalancedParenthesis\obj\Debug\net8.0\ref\08.BalancedParenthesis.dll

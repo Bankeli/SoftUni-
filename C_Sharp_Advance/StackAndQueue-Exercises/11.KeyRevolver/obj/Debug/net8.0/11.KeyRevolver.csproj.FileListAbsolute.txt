@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\refint\11.KeyRevolver.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\11.KeyRevolver\obj\Debug\net8.0\ref\11.KeyRevolver.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\bin\Debug\net8.0\03.MaximumAndMinimumElements.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\bin\Debug\net8.0\03.MaximumAndMinimumElements.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\bin\Debug\net8.0\03.MaximumAndMinimumElements.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\bin\Debug\net8.0\03.MaximumAndMinimumElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\bin\Debug\net8.0\03.MaximumAndMinimumElements.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\refint\03.MaximumAndMinimumElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\03.MaximumAndMinimumElements.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\03.MaximumAndMinimumElements\obj\Debug\net8.0\ref\03.MaximumAndMinimumElements.dll

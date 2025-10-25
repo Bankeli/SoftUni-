@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\01.BasicStackOperation.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\01.BasicStackOperation.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\01.BasicStackOperation.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\01.BasicStackOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\bin\Debug\net8.0\01.BasicStackOperation.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\refint\01.BasicStackOperation.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\01.BasicStackOperation.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\StackAndQueue-Exercises\obj\Debug\net8.0\ref\01.BasicStackOperation.dll

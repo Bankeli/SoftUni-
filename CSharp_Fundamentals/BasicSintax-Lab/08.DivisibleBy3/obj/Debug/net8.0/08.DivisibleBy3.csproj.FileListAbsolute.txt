@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\bin\Debug\net8.0\08.DivisibleBy3.exe
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\bin\Debug\net8.0\08.DivisibleBy3.deps.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\bin\Debug\net8.0\08.DivisibleBy3.runtimeconfig.json
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\bin\Debug\net8.0\08.DivisibleBy3.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\bin\Debug\net8.0\08.DivisibleBy3.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.AssemblyInfo.cs
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\refint\08.DivisibleBy3.dll
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.pdb
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\08.DivisibleBy3.genruntimeconfig.cache
+D:\My Workflow\C# Basic\BasicSintax-Lab\08.DivisibleBy3\obj\Debug\net8.0\ref\08.DivisibleBy3.dll

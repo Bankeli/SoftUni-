@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\bin\Debug\net8.0\09.CharsToString.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\bin\Debug\net8.0\09.CharsToString.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\bin\Debug\net8.0\09.CharsToString.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\bin\Debug\net8.0\09.CharsToString.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\bin\Debug\net8.0\09.CharsToString.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\refint\09.CharsToString.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\09.CharsToString.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\09.CharsToString\obj\Debug\net8.0\ref\09.CharsToString.dll

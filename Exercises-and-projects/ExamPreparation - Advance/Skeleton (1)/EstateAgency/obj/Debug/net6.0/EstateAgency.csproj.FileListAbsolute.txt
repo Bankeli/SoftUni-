@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\ExamPreparation - Advance\Skeleton (1)\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

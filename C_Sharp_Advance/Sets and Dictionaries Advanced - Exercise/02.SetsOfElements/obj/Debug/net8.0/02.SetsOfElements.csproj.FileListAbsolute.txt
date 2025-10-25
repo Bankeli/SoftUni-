@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\refint\02.SetsOfElements.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net8.0\ref\02.SetsOfElements.dll

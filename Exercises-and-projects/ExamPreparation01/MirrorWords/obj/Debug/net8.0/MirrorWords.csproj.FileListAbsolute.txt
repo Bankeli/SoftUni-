@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\bin\Debug\net8.0\MirrorWords.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\bin\Debug\net8.0\MirrorWords.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\bin\Debug\net8.0\MirrorWords.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\bin\Debug\net8.0\MirrorWords.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\bin\Debug\net8.0\MirrorWords.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\refint\MirrorWords.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\MirrorWords.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\MirrorWords\obj\Debug\net8.0\ref\MirrorWords.dll

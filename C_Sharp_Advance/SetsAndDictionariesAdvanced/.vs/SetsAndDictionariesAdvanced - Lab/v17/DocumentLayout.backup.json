@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B637AC-767E-4333-AEA1-F539DA28491C}|08.SoftUniParty\\08.SoftUniParty.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B637AC-767E-4333-AEA1-F539DA28491C}|08.SoftUniParty\\08.SoftUniParty.csproj|solutionrelative:08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF493A4-326B-4892-ACB1-CAA1570D5779}|Example\\Example.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF493A4-326B-4892-ACB1-CAA1570D5779}|Example\\Example.csproj|solutionrelative:example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF94FCE-F7D6-4D92-BB16-8A813E76BCDB}|07.ParkingLot\\07.ParkingLot.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF94FCE-F7D6-4D92-BB16-8A813E76BCDB}|07.ParkingLot\\07.ParkingLot.csproj|solutionrelative:07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF28D47-B5A3-4241-997B-CE445F4CBE81}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF28D47-B5A3-4241-997B-CE445F4CBE81}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|solutionrelative:06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87456923-A9B3-4320-B90E-210F56DEB5B5}|04.ProductShop\\04.ProductShop.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87456923-A9B3-4320-B90E-210F56DEB5B5}|04.ProductShop\\04.ProductShop.csproj|solutionrelative:04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FCFBDC-1F68-4F09-A23C-B346FBF1A6FF}|03.Largest3Numbers\\03.Largest3Numbers.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FCFBDC-1F68-4F09-A23C-B346FBF1A6FF}|03.Largest3Numbers\\03.Largest3Numbers.csproj|solutionrelative:03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4812727-9CD3-4970-ABD7-0657B05875B3}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4812727-9CD3-4970-ABD7-0657B05875B3}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|solutionrelative:02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5E07E-8820-4E52-860B-2A43ABCD00E6}|01.CountSameVAluesInArray\\01.CountSameVAluesInArray.csproj|c:\\users\\yukib\\source\\repos\\setsanddictionariesadvanced\\01.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5E07E-8820-4E52-860B-2A43ABCD00E6}|01.CountSameVAluesInArray\\01.CountSameVAluesInArray.csproj|solutionrelative:01.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\08.SoftUniParty\\Program.cs",
+              "RelativeDocumentMoniker": "08.SoftUniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\08.SoftUniParty\\Program.cs",
+              "RelativeToolTip": "08.SoftUniParty\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:03:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\07.ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "07.ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\07.ParkingLot\\Program.cs",
+              "RelativeToolTip": "07.ParkingLot\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:53:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\06.RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "06.RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\06.RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "06.RecordUniqueNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:50:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\04.ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\04.ProductShop\\Program.cs",
+              "RelativeToolTip": "04.ProductShop\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:40:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\03.Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\03.Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "03.Largest3Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:34:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\02.AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "02.AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\02.AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "02.AverageStudentGrades\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Example\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\Example\\Program.cs",
+              "RelativeToolTip": "Example\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:48:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\01.CountSameVAluesInArray\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountSameVAluesInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\yukib\\source\\repos\\SetsAndDictionariesAdvanced\\01.CountSameVAluesInArray\\Program.cs",
+              "RelativeToolTip": "01.CountSameVAluesInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:15:06.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

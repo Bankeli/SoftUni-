@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\bin\Debug\net8.0\03.SoftuniBarIncome.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\bin\Debug\net8.0\03.SoftuniBarIncome.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\bin\Debug\net8.0\03.SoftuniBarIncome.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\bin\Debug\net8.0\03.SoftuniBarIncome.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\bin\Debug\net8.0\03.SoftuniBarIncome.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\refint\03.SoftuniBarIncome.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\03.SoftuniBarIncome.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\03.SoftuniBarIncome\obj\Debug\net8.0\ref\03.SoftuniBarIncome.dll

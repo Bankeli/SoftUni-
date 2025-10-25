@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\refint\10.MultiplyEvensByOdds.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\ref\10.MultiplyEvensByOdds.dll

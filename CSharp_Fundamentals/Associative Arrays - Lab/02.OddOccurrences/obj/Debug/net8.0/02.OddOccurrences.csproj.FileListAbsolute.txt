@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.exe
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.deps.json
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.pdb
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\refint\02.OddOccurrences.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.pdb
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\02.OddOccurrences\obj\Debug\net8.0\ref\02.OddOccurrences.dll

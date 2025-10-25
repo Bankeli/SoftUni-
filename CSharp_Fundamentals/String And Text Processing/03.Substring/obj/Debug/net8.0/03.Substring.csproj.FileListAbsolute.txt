@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\bin\Debug\net8.0\03.Substring.exe
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\bin\Debug\net8.0\03.Substring.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\bin\Debug\net8.0\03.Substring.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\bin\Debug\net8.0\03.Substring.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\bin\Debug\net8.0\03.Substring.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\refint\03.Substring.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\03.Substring.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\03.Substring\obj\Debug\net8.0\ref\03.Substring.dll

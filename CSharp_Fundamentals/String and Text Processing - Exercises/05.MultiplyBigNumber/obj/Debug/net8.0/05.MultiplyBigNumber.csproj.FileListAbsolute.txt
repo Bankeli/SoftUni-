@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\refint\05.MultiplyBigNumber.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\05.MultiplyBigNumber\obj\Debug\net8.0\ref\05.MultiplyBigNumber.dll

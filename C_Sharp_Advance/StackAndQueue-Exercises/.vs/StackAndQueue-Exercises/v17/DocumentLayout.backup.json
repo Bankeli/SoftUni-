@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12CC8C3-F1D5-4D57-801E-FA01D4941F60}|11.KeyRevolver\\11.KeyRevolver.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12CC8C3-F1D5-4D57-801E-FA01D4941F60}|11.KeyRevolver\\11.KeyRevolver.csproj|solutionrelative:11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79B1D07-4DFC-4E4B-8E05-01D41D14297F}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79B1D07-4DFC-4E4B-8E05-01D41D14297F}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|solutionrelative:08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3863FB7E-736A-4C38-BB3F-504601005C8B}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3863FB7E-736A-4C38-BB3F-504601005C8B}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|solutionrelative:09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4600D969-2FBA-46CA-88DF-9B0A401DC53B}|07.TruckTour\\07.TruckTour.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4600D969-2FBA-46CA-88DF-9B0A401DC53B}|07.TruckTour\\07.TruckTour.csproj|solutionrelative:07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAE4D23-7F1C-4568-A5D9-82D2FF8E1B0C}|06.SongsQueue\\06.SongsQueue.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAE4D23-7F1C-4568-A5D9-82D2FF8E1B0C}|06.SongsQueue\\06.SongsQueue.csproj|solutionrelative:06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26035848-7DBD-4E83-A9B9-16B6B3FAD72B}|05.FashionBotique\\05.FashionBotique.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\05.fashionbotique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26035848-7DBD-4E83-A9B9-16B6B3FAD72B}|05.FashionBotique\\05.FashionBotique.csproj|solutionrelative:05.fashionbotique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\01.BasicStackOperation.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A140B-9765-42BD-B9FF-026706B7313C}|StackAndQueue-Exercises\\01.BasicStackOperation.csproj|solutionrelative:stackandqueue-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C6CA9-4659-4B93-B461-A6FCE8DD5C53}|03.MaximumAndMinimumElements\\03.MaximumAndMinimumElements.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\03.maximumandminimumelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C6CA9-4659-4B93-B461-A6FCE8DD5C53}|03.MaximumAndMinimumElements\\03.MaximumAndMinimumElements.csproj|solutionrelative:03.maximumandminimumelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA446B7F-D04E-400E-BBDF-02DF82FAF474}|04.FastFood\\04.FastFood.csproj|solutionrelative:04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B655154-DCD1-4ECD-976E-CF1647695378}|02.BasicQueueOperation\\02.BasicQueueOperation.csproj|d:\\my workflow\\github\\c_sharp_advance\\stackandqueue-exercises\\02.basicqueueoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B655154-DCD1-4ECD-976E-CF1647695378}|02.BasicQueueOperation\\02.BasicQueueOperation.csproj|solutionrelative:02.basicqueueoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\11.KeyRevolver\\Program.cs",
+              "RelativeDocumentMoniker": "11.KeyRevolver\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\11.KeyRevolver\\Program.cs*",
+              "RelativeToolTip": "11.KeyRevolver\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:50:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\09.SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "09.SimpleTextEditor\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\09.SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "09.SimpleTextEditor\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:53:27.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\08.BalancedParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08.BalancedParenthesis\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\08.BalancedParenthesis\\Program.cs",
+              "RelativeToolTip": "08.BalancedParenthesis\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:22:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\07.TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "07.TruckTour\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\07.TruckTour\\Program.cs",
+              "RelativeToolTip": "07.TruckTour\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:53:51.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\06.SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "06.SongsQueue\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\06.SongsQueue\\Program.cs",
+              "RelativeToolTip": "06.SongsQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:41:53.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\05.FashionBotique\\Program.cs",
+              "RelativeDocumentMoniker": "05.FashionBotique\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\05.FashionBotique\\Program.cs",
+              "RelativeToolTip": "05.FashionBotique\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:27:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\04.FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "04.FastFood\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\04.FastFood\\Program.cs",
+              "RelativeToolTip": "04.FastFood\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:31:19.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\03.MaximumAndMinimumElements\\Program.cs",
+              "RelativeDocumentMoniker": "03.MaximumAndMinimumElements\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\03.MaximumAndMinimumElements\\Program.cs",
+              "RelativeToolTip": "03.MaximumAndMinimumElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:50:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\02.BasicQueueOperation\\Program.cs",
+              "RelativeDocumentMoniker": "02.BasicQueueOperation\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\02.BasicQueueOperation\\Program.cs",
+              "RelativeToolTip": "02.BasicQueueOperation\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:41:05.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\StackAndQueue-Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "StackAndQueue-Exercises\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_Advance\\StackAndQueue-Exercises\\StackAndQueue-Exercises\\Program.cs",
+              "RelativeToolTip": "StackAndQueue-Exercises\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:21:59.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

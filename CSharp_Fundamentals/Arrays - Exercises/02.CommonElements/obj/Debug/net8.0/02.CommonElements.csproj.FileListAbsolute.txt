@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\bin\Debug\net8.0\02.CommonElements.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\bin\Debug\net8.0\02.CommonElements.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\bin\Debug\net8.0\02.CommonElements.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\bin\Debug\net8.0\02.CommonElements.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\bin\Debug\net8.0\02.CommonElements.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\refint\02.CommonElements.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\02.CommonElements.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\02.CommonElements\obj\Debug\net8.0\ref\02.CommonElements.dll

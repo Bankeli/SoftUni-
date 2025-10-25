@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\bin\Debug\net8.0\02.MatchPhoneNumbers.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\bin\Debug\net8.0\02.MatchPhoneNumbers.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\bin\Debug\net8.0\02.MatchPhoneNumbers.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\bin\Debug\net8.0\02.MatchPhoneNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\bin\Debug\net8.0\02.MatchPhoneNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\refint\02.MatchPhoneNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\02.MatchPhoneNumbers.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\02.MatchPhoneNumbers\obj\Debug\net8.0\ref\02.MatchPhoneNumbers.dll

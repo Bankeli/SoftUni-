@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\bin\Debug\net8.0\04.Student.exe
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\bin\Debug\net8.0\04.Student.deps.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\bin\Debug\net8.0\04.Student.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\bin\Debug\net8.0\04.Student.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\bin\Debug\net8.0\04.Student.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\refint\04.Student.dll
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.pdb
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\04.Student.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\ObjectAndClass - Lab\04.Student\obj\Debug\net8.0\ref\04.Student.dll

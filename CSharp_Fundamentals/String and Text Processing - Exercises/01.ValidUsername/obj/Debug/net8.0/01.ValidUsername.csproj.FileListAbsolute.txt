@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\bin\Debug\net8.0\01.ValidUsername.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\bin\Debug\net8.0\01.ValidUsername.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\bin\Debug\net8.0\01.ValidUsername.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\bin\Debug\net8.0\01.ValidUsername.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\bin\Debug\net8.0\01.ValidUsername.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\refint\01.ValidUsername.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\01.ValidUsername.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\01.ValidUsername\obj\Debug\net8.0\ref\01.ValidUsername.dll

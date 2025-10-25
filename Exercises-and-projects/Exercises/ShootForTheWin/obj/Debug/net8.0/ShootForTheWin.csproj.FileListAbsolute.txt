@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\bin\Debug\net8.0\ShootForTheWin.exe
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\bin\Debug\net8.0\ShootForTheWin.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\bin\Debug\net8.0\ShootForTheWin.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\bin\Debug\net8.0\ShootForTheWin.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\bin\Debug\net8.0\ShootForTheWin.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\refint\ShootForTheWin.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ShootForTheWin.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ShootForTheWin\obj\Debug\net8.0\ref\ShootForTheWin.dll

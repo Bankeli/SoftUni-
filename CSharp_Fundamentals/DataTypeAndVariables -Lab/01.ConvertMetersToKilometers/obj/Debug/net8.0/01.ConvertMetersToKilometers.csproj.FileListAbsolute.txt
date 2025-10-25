@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\bin\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\refint\01.ConvertMetersToKilometers.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\01.ConvertMetersToKilometers\obj\Debug\net8.0\ref\01.ConvertMetersToKilometers.dll

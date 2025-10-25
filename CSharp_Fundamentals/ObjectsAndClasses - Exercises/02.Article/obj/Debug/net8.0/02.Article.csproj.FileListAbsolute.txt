@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\bin\Debug\net8.0\02.Article.exe
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\bin\Debug\net8.0\02.Article.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\bin\Debug\net8.0\02.Article.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\bin\Debug\net8.0\02.Article.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\bin\Debug\net8.0\02.Article.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\refint\02.Article.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\02.Article.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\02.Article\obj\Debug\net8.0\ref\02.Article.dll

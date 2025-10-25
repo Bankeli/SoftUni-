@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.exe
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.deps.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\refint\01.SignOfIntegerNumbers.dll
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.pdb
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Methods - Lab\01.SignOfIntegerNumbers\obj\Debug\net8.0\ref\01.SignOfIntegerNumbers.dll

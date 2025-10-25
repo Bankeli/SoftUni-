@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\OffRoadChallange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDAB36-24B1-4E99-9853-ED1C7F3D1643}|OffRoadChallange\\OffRoadChallange.csproj|d:\\my workflow\\github\\exercises-and-projects\\offroadchallange\\offroadchallange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDAB36-24B1-4E99-9853-ED1C7F3D1643}|OffRoadChallange\\OffRoadChallange.csproj|solutionrelative:offroadchallange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\OffRoadChallange\\OffRoadChallange\\Program.cs",
+              "RelativeDocumentMoniker": "OffRoadChallange\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\OffRoadChallange\\OffRoadChallange\\Program.cs",
+              "RelativeToolTip": "OffRoadChallange\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:43:14.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\refint\03.MatchDates.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Lab\03.MatchDates\obj\Debug\net8.0\ref\03.MatchDates.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\refint\07.PredicateForNames.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\net8.0\ref\07.PredicateForNames.dll

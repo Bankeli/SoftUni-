@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\bin\Debug\net8.0\08.ListOfPredicate.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\bin\Debug\net8.0\08.ListOfPredicate.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\bin\Debug\net8.0\08.ListOfPredicate.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\bin\Debug\net8.0\08.ListOfPredicate.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\bin\Debug\net8.0\08.ListOfPredicate.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\refint\08.ListOfPredicate.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\08.ListOfPredicate.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\08.ListOfPredicate\obj\Debug\net8.0\ref\08.ListOfPredicate.dll

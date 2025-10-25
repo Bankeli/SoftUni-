@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.exe
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\refint\04.StarEnigma.dll
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.pdb
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\RegularExpression - Exercises\04.StarEnigma\obj\Debug\net8.0\ref\04.StarEnigma.dll

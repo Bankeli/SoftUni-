@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\bin\Debug\net8.0\07.NxNMatriix.exe
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\bin\Debug\net8.0\07.NxNMatriix.deps.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\bin\Debug\net8.0\07.NxNMatriix.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\bin\Debug\net8.0\07.NxNMatriix.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\bin\Debug\net8.0\07.NxNMatriix.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\refint\07.NxNMatriix.dll
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.pdb
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\07.NxNMatriix.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Method - Exercises\07.NxNMatriix\obj\Debug\net8.0\ref\07.NxNMatriix.dll

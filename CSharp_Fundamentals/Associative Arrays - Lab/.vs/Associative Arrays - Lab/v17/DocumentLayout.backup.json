@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B121591-DEEA-4DCE-BF79-016CBF311C61}|04.WordFilter\\04.WordFilter.csproj|d:\\my workflow\\c#\\c# fundamentals\\associative arrays - lab\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B121591-DEEA-4DCE-BF79-016CBF311C61}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61DD04-48E9-4898-AF62-66831D933637}|03.WordInSynonyms\\03.WordInSynonyms.csproj|d:\\my workflow\\c#\\c# fundamentals\\associative arrays - lab\\03.wordinsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61DD04-48E9-4898-AF62-66831D933637}|03.WordInSynonyms\\03.WordInSynonyms.csproj|solutionrelative:03.wordinsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13735245-1F45-45A6-8DC0-7CF4CBB73CD9}|01.CountRealNumbers\\01.CountRealNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\associative arrays - lab\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13735245-1F45-45A6-8DC0-7CF4CBB73CD9}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFAEA49-CD30-4CAF-8A5F-0B1FD39C9973}|02.OddOccurrences\\02.OddOccurrences.csproj|d:\\my workflow\\c#\\c# fundamentals\\associative arrays - lab\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFAEA49-CD30-4CAF-8A5F-0B1FD39C9973}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\04.WordFilter\\Program.cs*",
+              "RelativeToolTip": "04.WordFilter\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:07:28.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\03.WordInSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordInSynonyms\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\03.WordInSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordInSynonyms\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:55:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:44:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\Associative Arrays - Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:38:18.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

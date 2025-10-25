@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Streams,FilesAndDircetories\Skeleton_6.0-Lab (1)\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll

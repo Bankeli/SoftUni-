@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5FF860-E917-4D83-83B7-C68C4566EA8A}|05.DigitLettersAndOthers\\05.DigitLettersAndOthers.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing\\05.digitlettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5FF860-E917-4D83-83B7-C68C4566EA8A}|05.DigitLettersAndOthers\\05.DigitLettersAndOthers.csproj|solutionrelative:05.digitlettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F766A6AA-345E-442A-8171-A24509FB1859}|04.TextFilter\\04.TextFilter.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing\\04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F766A6AA-345E-442A-8171-A24509FB1859}|04.TextFilter\\04.TextFilter.csproj|solutionrelative:04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C928D66-CFF9-449A-8DD7-988420C31252}|02.RepeatString\\02.RepeatString.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing\\02.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C928D66-CFF9-449A-8DD7-988420C31252}|02.RepeatString\\02.RepeatString.csproj|solutionrelative:02.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B435FD-407E-4F02-BA74-49307627C9D7}|03.Substring\\03.Substring.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing\\03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B435FD-407E-4F02-BA74-49307627C9D7}|03.Substring\\03.Substring.csproj|solutionrelative:03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BB3DB2-EA60-4732-824F-EA2EB2671FCE}|01.ReverseStrings\\01.ReverseStrings.csproj|d:\\my workflow\\c#\\c# fundamentals\\string and text processing\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BB3DB2-EA60-4732-824F-EA2EB2671FCE}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\05.DigitLettersAndOthers\\Program.cs",
+              "RelativeDocumentMoniker": "05.DigitLettersAndOthers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\05.DigitLettersAndOthers\\Program.cs",
+              "RelativeToolTip": "05.DigitLettersAndOthers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:25:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\04.TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.TextFilter\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\04.TextFilter\\Program.cs",
+              "RelativeToolTip": "04.TextFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:20:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\03.Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\03.Substring\\Program.cs",
+              "RelativeToolTip": "03.Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:12:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\02.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatString\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\02.RepeatString\\Program.cs",
+              "RelativeToolTip": "02.RepeatString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:09:07.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\01.ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\C# Fundamentals\\String And Text Processing\\01.ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01.ReverseStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:54:13.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

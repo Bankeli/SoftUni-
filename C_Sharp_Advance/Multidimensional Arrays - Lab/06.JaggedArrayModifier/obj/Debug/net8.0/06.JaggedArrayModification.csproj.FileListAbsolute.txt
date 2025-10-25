@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\bin\Debug\net8.0\06.JaggedArrayModification.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\bin\Debug\net8.0\06.JaggedArrayModification.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\bin\Debug\net8.0\06.JaggedArrayModification.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\bin\Debug\net8.0\06.JaggedArrayModification.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\bin\Debug\net8.0\06.JaggedArrayModification.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\refint\06.JaggedArrayModification.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\06.JaggedArrayModification.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Multidimensional Arrays\06.JaggedArrayModifier\obj\Debug\net8.0\ref\06.JaggedArrayModification.dll

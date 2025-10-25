@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\bin\Debug\net8.0\07.TheVLogger.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\bin\Debug\net8.0\07.TheVLogger.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\bin\Debug\net8.0\07.TheVLogger.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\bin\Debug\net8.0\07.TheVLogger.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\bin\Debug\net8.0\07.TheVLogger.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\refint\07.TheVLogger.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\07.TheVLogger.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Sets and Dictionaries Advanced - Exercise\07.TheVLogger\obj\Debug\net8.0\ref\07.TheVLogger.dll

@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\bin\Debug\net8.0\RawData.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\bin\Debug\net8.0\RawData.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\bin\Debug\net8.0\RawData.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\bin\Debug\net8.0\RawData.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\bin\Debug\net8.0\RawData.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\refint\RawData.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\RawData.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\RawData\obj\Debug\net8.0\ref\RawData.dll

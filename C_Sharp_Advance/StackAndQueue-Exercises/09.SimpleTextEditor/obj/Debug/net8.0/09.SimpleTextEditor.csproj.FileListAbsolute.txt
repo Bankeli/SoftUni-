@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\refint\09.SimpleTextEditor.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\09.SimpleTextEditor\obj\Debug\net8.0\ref\09.SimpleTextEditor.dll

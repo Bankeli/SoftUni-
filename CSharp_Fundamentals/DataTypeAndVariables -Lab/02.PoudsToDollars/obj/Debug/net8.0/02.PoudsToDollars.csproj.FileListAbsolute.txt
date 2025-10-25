@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\bin\Debug\net8.0\02.PoudsToDollars.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\bin\Debug\net8.0\02.PoudsToDollars.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\bin\Debug\net8.0\02.PoudsToDollars.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\bin\Debug\net8.0\02.PoudsToDollars.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\bin\Debug\net8.0\02.PoudsToDollars.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\refint\02.PoudsToDollars.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\02.PoudsToDollars.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\02.PoudsToDollars\obj\Debug\net8.0\ref\02.PoudsToDollars.dll

@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\bin\Debug\net8.0\05.TeamworkProject.exe
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\bin\Debug\net8.0\05.TeamworkProject.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\bin\Debug\net8.0\05.TeamworkProject.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\bin\Debug\net8.0\05.TeamworkProject.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\bin\Debug\net8.0\05.TeamworkProject.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\refint\05.TeamworkProject.dll
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.pdb
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\05.TeamworkProject.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\ObjectsAndClasses - Exercises\05.TeamworkProject\obj\Debug\net8.0\ref\05.TeamworkProject.dll

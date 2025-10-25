@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\bin\Debug\net8.0\Threeuple.exe
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\bin\Debug\net8.0\Threeuple.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\bin\Debug\net8.0\Threeuple.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\bin\Debug\net8.0\Threeuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\bin\Debug\net8.0\Threeuple.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\refint\Threeuple.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\Threeuple.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\Threeuple\obj\Debug\net8.0\ref\Threeuple.dll

@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\bin\Debug\net8.0\PlantDiscovery.exe
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\bin\Debug\net8.0\PlantDiscovery.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\bin\Debug\net8.0\PlantDiscovery.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\bin\Debug\net8.0\PlantDiscovery.dll
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\bin\Debug\net8.0\PlantDiscovery.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.dll
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\refint\PlantDiscovery.dll
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\PlantDiscovery.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\PlantDiscovery\obj\Debug\net8.0\ref\PlantDiscovery.dll

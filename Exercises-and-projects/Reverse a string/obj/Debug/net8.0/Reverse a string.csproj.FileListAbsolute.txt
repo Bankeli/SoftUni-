@@ -1,0 +1,14 @@
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/bin/Debug/net8.0/Reverse a string
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/bin/Debug/net8.0/Reverse a string.deps.json
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/bin/Debug/net8.0/Reverse a string.runtimeconfig.json
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/bin/Debug/net8.0/Reverse a string.dll
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/bin/Debug/net8.0/Reverse a string.pdb
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.GeneratedMSBuildEditorConfig.editorconfig
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.AssemblyInfoInputs.cache
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.AssemblyInfo.cs
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.csproj.CoreCompileInputs.cache
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.dll
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/refint/Reverse a string.dll
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.pdb
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/Reverse a string.genruntimeconfig.cache
+/media/bankeli/6a032e04-2a8d-4283-b1ed-1333c7d884c1/Softuni/Exercises/Reverse a string/obj/Debug/net8.0/ref/Reverse a string.dll

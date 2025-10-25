@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\refint\06.SongsQueue.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\StackAndQueue-Exercises\06.SongsQueue\obj\Debug\net8.0\ref\06.SongsQueue.dll

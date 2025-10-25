@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\bin\Debug\net8.0\05.TopInteger.exe
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\bin\Debug\net8.0\05.TopInteger.deps.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\bin\Debug\net8.0\05.TopInteger.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\bin\Debug\net8.0\05.TopInteger.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\bin\Debug\net8.0\05.TopInteger.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\refint\05.TopInteger.dll
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.pdb
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\05.TopInteger.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Arrays - Exercises\05.TopInteger\obj\Debug\net8.0\ref\05.TopInteger.dll

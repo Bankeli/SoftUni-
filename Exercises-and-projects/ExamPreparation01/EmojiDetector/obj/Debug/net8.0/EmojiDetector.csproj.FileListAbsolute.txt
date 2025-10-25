@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\bin\Debug\net8.0\EmojiDetector.exe
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\bin\Debug\net8.0\EmojiDetector.deps.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\bin\Debug\net8.0\EmojiDetector.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\bin\Debug\net8.0\EmojiDetector.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\bin\Debug\net8.0\EmojiDetector.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\refint\EmojiDetector.dll
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.pdb
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\EmojiDetector.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\ExamPreparation01\EmojiDetector\obj\Debug\net8.0\ref\EmojiDetector.dll

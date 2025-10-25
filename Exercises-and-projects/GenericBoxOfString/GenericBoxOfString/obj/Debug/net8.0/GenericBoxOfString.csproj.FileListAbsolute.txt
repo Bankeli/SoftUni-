@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\bin\Debug\net8.0\GenericBoxOfString.exe
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\bin\Debug\net8.0\GenericBoxOfString.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\bin\Debug\net8.0\GenericBoxOfString.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\bin\Debug\net8.0\GenericBoxOfString.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\bin\Debug\net8.0\GenericBoxOfString.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\refint\GenericBoxOfString.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\GenericBoxOfString.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericBoxOfString\obj\Debug\net8.0\ref\GenericBoxOfString.dll

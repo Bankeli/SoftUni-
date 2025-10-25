@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\bin\Debug\net8.0\10.LowerToUpper.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\bin\Debug\net8.0\10.LowerToUpper.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\bin\Debug\net8.0\10.LowerToUpper.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\bin\Debug\net8.0\10.LowerToUpper.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\bin\Debug\net8.0\10.LowerToUpper.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\refint\10.LowerToUpper.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\10.LowerToUpper.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\10.LowerToUpper\obj\Debug\net8.0\ref\10.LowerToUpper.dll

@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\bin\Debug\net8.0\03.WordSynonyms.exe
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\bin\Debug\net8.0\03.WordSynonyms.deps.json
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\bin\Debug\net8.0\03.WordSynonyms.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\bin\Debug\net8.0\03.WordSynonyms.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\bin\Debug\net8.0\03.WordSynonyms.pdb
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\refint\03.WordSynonyms.dll
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.pdb
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\03.WordSynonyms.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\Associative Arrays - Lab\03.WordInSynonyms\obj\Debug\net8.0\ref\03.WordSynonyms.dll

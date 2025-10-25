@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\bin\Debug\net8.0\ThePianist.exe
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\bin\Debug\net8.0\ThePianist.deps.json
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\bin\Debug\net8.0\ThePianist.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\bin\Debug\net8.0\ThePianist.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\bin\Debug\net8.0\ThePianist.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\refint\ThePianist.dll
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.pdb
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ThePianist.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exercises\ThePianist\obj\Debug\net8.0\ref\ThePianist.dll

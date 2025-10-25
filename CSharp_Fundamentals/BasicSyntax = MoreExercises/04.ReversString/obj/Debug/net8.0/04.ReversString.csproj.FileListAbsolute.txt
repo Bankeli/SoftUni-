@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\bin\Debug\net8.0\04.ReversString.exe
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\bin\Debug\net8.0\04.ReversString.deps.json
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\bin\Debug\net8.0\04.ReversString.runtimeconfig.json
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\bin\Debug\net8.0\04.ReversString.dll
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\bin\Debug\net8.0\04.ReversString.pdb
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.AssemblyInfo.cs
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.dll
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\refint\04.ReversString.dll
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.pdb
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\04.ReversString.genruntimeconfig.cache
+D:\My Workflow\C# Basic\03.GamingStore\04.ReversString\obj\Debug\net8.0\ref\04.ReversString.dll

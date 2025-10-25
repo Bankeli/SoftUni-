@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\bin\Debug\net8.0\SpeedRacing.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\bin\Debug\net8.0\SpeedRacing.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\bin\Debug\net8.0\SpeedRacing.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\bin\Debug\net8.0\SpeedRacing.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\bin\Debug\net8.0\SpeedRacing.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\refint\SpeedRacing.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\SpeedRacing.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\Defining Classes - Exercise\SpeedRacing\obj\Debug\net8.0\ref\SpeedRacing.dll

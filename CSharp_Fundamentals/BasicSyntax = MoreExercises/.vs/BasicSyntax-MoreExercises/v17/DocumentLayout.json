@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D23045-BB77-4DF1-A3E5-B6A0D6725810}|01.SortNumbers\\01.SortNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax = moreexercises\\01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D23045-BB77-4DF1-A3E5-B6A0D6725810}|01.SortNumbers\\01.SortNumbers.csproj|solutionrelative:01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFA0E0F-D28D-4EA4-9957-7B0F98E365D4}|02.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax = moreexercises\\02.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFA0E0F-D28D-4EA4-9957-7B0F98E365D4}|02.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|solutionrelative:02.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D056B94C-4AEE-4260-8545-2F8A05F07863}|04.ReversString\\04.ReversString.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax = moreexercises\\04.reversstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D056B94C-4AEE-4260-8545-2F8A05F07863}|04.ReversString\\04.ReversString.csproj|solutionrelative:04.reversstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE29737-B87A-4C8E-B306-5A9BAC1AE50D}|BasicSyntax-MoreExercises\\03.GameStore.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax = moreexercises\\basicsyntax-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE29737-B87A-4C8E-B306-5A9BAC1AE50D}|BasicSyntax-MoreExercises\\03.GameStore.csproj|solutionrelative:basicsyntax-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\01.SortNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SortNumbers\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\01.SortNumbers\\Program.cs",
+              "RelativeToolTip": "01.SortNumbers\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:45:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\02.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeDocumentMoniker": "02.EnglishNameOfTheLastDigit\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\02.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeToolTip": "02.EnglishNameOfTheLastDigit\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:51:01.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\04.ReversString\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReversString\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\04.ReversString\\Program.cs",
+              "RelativeToolTip": "04.ReversString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:32:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\BasicSyntax-MoreExercises\\Program.cs",
+              "RelativeDocumentMoniker": "BasicSyntax-MoreExercises\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax = MoreExercises\\BasicSyntax-MoreExercises\\Program.cs",
+              "RelativeToolTip": "BasicSyntax-MoreExercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:05:28.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

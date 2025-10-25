@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\bin\Debug\net8.0\05.DigitLettersAndOthers.exe
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\bin\Debug\net8.0\05.DigitLettersAndOthers.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\bin\Debug\net8.0\05.DigitLettersAndOthers.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\bin\Debug\net8.0\05.DigitLettersAndOthers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\bin\Debug\net8.0\05.DigitLettersAndOthers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\refint\05.DigitLettersAndOthers.dll
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\05.DigitLettersAndOthers.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String And Text Processing\05.DigitLettersAndOthers\obj\Debug\net8.0\ref\05.DigitLettersAndOthers.dll

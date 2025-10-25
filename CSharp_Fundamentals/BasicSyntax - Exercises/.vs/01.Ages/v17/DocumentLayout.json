@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549CEB0B-1EAF-4941-A046-3615901C883F}|12.VendingMachine-v2\\12.VendingMachine-v2.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\12.vendingmachine-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549CEB0B-1EAF-4941-A046-3615901C883F}|12.VendingMachine-v2\\12.VendingMachine-v2.csproj|solutionrelative:12.vendingmachine-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B3DA09-7906-46F5-9275-5247DF67EB8C}|07.VendingMachine\\07.VendingMachine.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B3DA09-7906-46F5-9275-5247DF67EB8C}|07.VendingMachine\\07.VendingMachine.csproj|solutionrelative:07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766100-3A4B-48BA-8440-A7FBF30BBE12}|05.Login\\05.Login.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766100-3A4B-48BA-8440-A7FBF30BBE12}|05.Login\\05.Login.csproj|solutionrelative:05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766100-3A4B-48BA-8440-A7FBF30BBE12}|05.Login\\05.Login.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\05.login\\05.login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9766100-3A4B-48BA-8440-A7FBF30BBE12}|05.Login\\05.Login.csproj|solutionrelative:05.login\\05.login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EA7DFC-B8F9-4655-99C4-534BEBA18446}|11.Orders\\11.Orders.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EA7DFC-B8F9-4655-99C4-534BEBA18446}|11.Orders\\11.Orders.csproj|solutionrelative:11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2F9A65-0C96-4193-A107-770C95F2C8CA}|10.RageExpenses\\10.RageExpenses.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2F9A65-0C96-4193-A107-770C95F2C8CA}|10.RageExpenses\\10.RageExpenses.csproj|solutionrelative:10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E75F4-3E81-46D9-A19C-ED393AC84C6C}|09.PadawanEquipment\\09.PadawanEquipment.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\09.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E75F4-3E81-46D9-A19C-ED393AC84C6C}|09.PadawanEquipment\\09.PadawanEquipment.csproj|solutionrelative:09.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CDAF79-7A60-49F5-AB83-9139CC9A5DD3}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CDAF79-7A60-49F5-AB83-9139CC9A5DD3}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|solutionrelative:08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257D3C5-A861-4A6E-B1EA-925BB273523E}|06.StrongNumber\\06.StrongNumber.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C257D3C5-A861-4A6E-B1EA-925BB273523E}|06.StrongNumber\\06.StrongNumber.csproj|solutionrelative:06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3B86DE-5990-4659-BAE2-7A1F77D2740B}|04.PrintAndSum\\04.PrintAndSum.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\04.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3B86DE-5990-4659-BAE2-7A1F77D2740B}|04.PrintAndSum\\04.PrintAndSum.csproj|solutionrelative:04.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A7DD7D-D3A9-41B3-BE4B-82E0315A2BC5}|03.Vacation\\03.Vacation.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A7DD7D-D3A9-41B3-BE4B-82E0315A2BC5}|03.Vacation\\03.Vacation.csproj|solutionrelative:03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A9DD71-9164-496B-BCB8-BDD04D8123B2}|02.Division\\02.Division.csproj|d:\\my workflow\\c#\\c# fundamentals\\basicsyntax - exercises\\02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A9DD71-9164-496B-BCB8-BDD04D8123B2}|02.Division\\02.Division.csproj|solutionrelative:02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My Workflow\\C# Basic\\01.Ages\\BasicSyntax-Exercises\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\12.VendingMachine-v2\\Program.cs",
+              "RelativeDocumentMoniker": "12.VendingMachine-v2\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\12.VendingMachine-v2\\Program.cs",
+              "RelativeToolTip": "12.VendingMachine-v2\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:31:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05.Login.csproj",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\05.Login\\05.Login.csproj",
+              "RelativeDocumentMoniker": "05.Login\\05.Login.csproj",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\05.Login\\05.Login.csproj",
+              "RelativeToolTip": "05.Login\\05.Login.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T15:36:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\11.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11.Orders\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\11.Orders\\Program.cs",
+              "RelativeToolTip": "11.Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:43:52.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\10.RageExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "10.RageExpenses\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\10.RageExpenses\\Program.cs",
+              "RelativeToolTip": "10.RageExpenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:21:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\09.PadawanEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "09.PadawanEquipment\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\09.PadawanEquipment\\Program.cs",
+              "RelativeToolTip": "09.PadawanEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:00:48.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.TriangleOfNumbers\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeToolTip": "08.TriangleOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:52:13.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\07.VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\07.VendingMachine\\Program.cs",
+              "RelativeToolTip": "07.VendingMachine\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:44:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\06.StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.StrongNumber\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\06.StrongNumber\\Program.cs",
+              "RelativeToolTip": "06.StrongNumber\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\05.Login\\Program.cs",
+              "RelativeDocumentMoniker": "05.Login\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\05.Login\\Program.cs",
+              "RelativeToolTip": "05.Login\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:48:14.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\04.PrintAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintAndSum\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\04.PrintAndSum\\Program.cs",
+              "RelativeToolTip": "04.PrintAndSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:43:30.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\03.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03.Vacation\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\03.Vacation\\Program.cs",
+              "RelativeToolTip": "03.Vacation\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:20:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\02.Division\\Program.cs",
+              "RelativeDocumentMoniker": "02.Division\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C#\\C# Fundamentals\\BasicSyntax - Exercises\\02.Division\\Program.cs",
+              "RelativeToolTip": "02.Division\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:13:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workflow\\C# Basic\\01.Ages\\BasicSyntax-Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C# Basic\\01.Ages\\BasicSyntax-Exercises\\Program.cs",
+              "ToolTip": "D:\\My Workflow\\C# Basic\\01.Ages\\BasicSyntax-Exercises\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\C# Basic\\01.Ages\\BasicSyntax-Exercises\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:10:03.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

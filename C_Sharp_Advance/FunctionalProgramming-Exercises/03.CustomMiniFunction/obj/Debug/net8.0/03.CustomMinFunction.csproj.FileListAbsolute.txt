@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\bin\Debug\net8.0\03.CustomMinFunction.exe
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\bin\Debug\net8.0\03.CustomMinFunction.deps.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\bin\Debug\net8.0\03.CustomMinFunction.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\bin\Debug\net8.0\03.CustomMinFunction.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\bin\Debug\net8.0\03.CustomMinFunction.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.sourcelink.json
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\refint\03.CustomMinFunction.dll
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.pdb
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\03.CustomMinFunction.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_Advance\FunctionalProgramming-Exercises\03.CustomMiniFunction\obj\Debug\net8.0\ref\03.CustomMinFunction.dll

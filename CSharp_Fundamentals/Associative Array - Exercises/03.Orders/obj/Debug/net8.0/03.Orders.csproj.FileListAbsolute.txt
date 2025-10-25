@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\bin\Debug\net8.0\03.Orders.exe
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\bin\Debug\net8.0\03.Orders.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\bin\Debug\net8.0\03.Orders.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\bin\Debug\net8.0\03.Orders.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\bin\Debug\net8.0\03.Orders.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\refint\03.Orders.dll
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\03.Orders.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Associative Array - Exercises\03.Orders\obj\Debug\net8.0\ref\03.Orders.dll

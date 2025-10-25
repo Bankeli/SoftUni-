@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\refint\05.SpecialNumber.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables\05.SpecialNumber\obj\Debug\net8.0\ref\05.SpecialNumber.dll

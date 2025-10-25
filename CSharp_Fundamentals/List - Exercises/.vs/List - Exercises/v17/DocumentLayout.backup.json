@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9374FC98-D3EE-41D8-8E2C-29BF02499802}|04.ListOperation\\04.ListOperation.csproj|d:\\my workflow\\csharp_fundamentals\\list - exercises\\04.listoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9374FC98-D3EE-41D8-8E2C-29BF02499802}|04.ListOperation\\04.ListOperation.csproj|solutionrelative:04.listoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BD87A7-5A71-4C0E-B4ED-652DC912A47C}|05.BombNumbers\\05.BombNumbers.csproj|d:\\my workflow\\csharp_fundamentals\\list - exercises\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD87A7-5A71-4C0E-B4ED-652DC912A47C}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42AA773-12BD-48F3-B26B-74AFFA858FF7}|03.HouseParty\\03.HouseParty.csproj|d:\\my workflow\\csharp_fundamentals\\list - exercises\\03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42AA773-12BD-48F3-B26B-74AFFA858FF7}|03.HouseParty\\03.HouseParty.csproj|solutionrelative:03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C451F-5546-4583-9887-D2962B3EEE33}|02.ChangeList\\02.ChangeList.csproj|d:\\my workflow\\csharp_fundamentals\\list - exercises\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C451F-5546-4583-9887-D2962B3EEE33}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F655C7-BA65-42B4-8F4F-1D5D3E3B7E33}|01.Train\\01.Train.csproj|d:\\my workflow\\csharp_fundamentals\\list - exercises\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F655C7-BA65-42B4-8F4F-1D5D3E3B7E33}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\04.ListOperation\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperation\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\04.ListOperation\\Program.cs",
+              "RelativeToolTip": "04.ListOperation\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:39:55.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:54:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\03.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\03.HouseParty\\Program.cs",
+              "RelativeToolTip": "03.HouseParty\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:41:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:30:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\CSharp_Fundamentals\\List - Exercises\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:48:00.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

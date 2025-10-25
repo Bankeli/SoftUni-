@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.exe
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\refint\04.CaesarCipher.dll
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.pdb
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\String and Text Processing - Exercises\04.CaesarCipher\obj\Debug\net8.0\ref\04.CaesarCipher.dll

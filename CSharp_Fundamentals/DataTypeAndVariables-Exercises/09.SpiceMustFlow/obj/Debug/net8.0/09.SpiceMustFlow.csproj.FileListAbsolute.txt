@@ -1,0 +1,14 @@
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.exe
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.deps.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.runtimeconfig.json
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\bin\Debug\net8.0\09.SpiceMustFlow.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.AssemblyInfo.cs
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\refint\09.SpiceMustFlow.dll
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.pdb
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\09.SpiceMustFlow.genruntimeconfig.cache
+D:\My Workflow\C#\C# Fundamentals\DataTypeAndVariables-Exercises\09.SpiceMustFlow\obj\Debug\net8.0\ref\09.SpiceMustFlow.dll

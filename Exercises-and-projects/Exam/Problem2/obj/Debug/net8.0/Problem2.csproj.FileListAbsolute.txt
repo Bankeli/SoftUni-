@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\bin\Debug\net8.0\Problem2.exe
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\bin\Debug\net8.0\Problem2.deps.json
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\bin\Debug\net8.0\Problem2.runtimeconfig.json
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\bin\Debug\net8.0\Problem2.dll
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\bin\Debug\net8.0\Problem2.pdb
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfo.cs
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.dll
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\refint\Problem2.dll
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.pdb
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\Problem2.genruntimeconfig.cache
+D:\My WorkFlow\C#\Exercises\Exam\Problem2\obj\Debug\net8.0\ref\Problem2.dll

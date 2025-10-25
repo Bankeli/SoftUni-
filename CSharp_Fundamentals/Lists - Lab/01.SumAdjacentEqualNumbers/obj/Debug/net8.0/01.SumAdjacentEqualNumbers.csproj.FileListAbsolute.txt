@@ -1,0 +1,14 @@
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.exe
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.deps.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\01.SumAdjacentEqualNumbers.dll
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+D:\My WorkFlow\C#\C# Fundamentals\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\01.SumAdjacentEqualNumbers.dll

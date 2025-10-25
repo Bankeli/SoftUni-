@@ -1,0 +1,14 @@
+D:\My Workflow\C# Basic\01.Ages\05.Login\bin\Debug\net8.0\05.Login.exe
+D:\My Workflow\C# Basic\01.Ages\05.Login\bin\Debug\net8.0\05.Login.deps.json
+D:\My Workflow\C# Basic\01.Ages\05.Login\bin\Debug\net8.0\05.Login.runtimeconfig.json
+D:\My Workflow\C# Basic\01.Ages\05.Login\bin\Debug\net8.0\05.Login.dll
+D:\My Workflow\C# Basic\01.Ages\05.Login\bin\Debug\net8.0\05.Login.pdb
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.AssemblyInfoInputs.cache
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.AssemblyInfo.cs
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.csproj.CoreCompileInputs.cache
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.dll
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\refint\05.Login.dll
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.pdb
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\05.Login.genruntimeconfig.cache
+D:\My Workflow\C# Basic\01.Ages\05.Login\obj\Debug\net8.0\ref\05.Login.dll

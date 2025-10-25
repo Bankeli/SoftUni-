@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49EC9CCC-10B1-4B04-A553-EC64492B53E1}|08.TrafficJam\\08.TrafficJam.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\08.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EC9CCC-10B1-4B04-A553-EC64492B53E1}|08.TrafficJam\\08.TrafficJam.csproj|solutionrelative:08.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05277374-1A56-4C7E-9597-C943BEC3A299}|07.HotPotato\\07.HotPotato.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05277374-1A56-4C7E-9597-C943BEC3A299}|07.HotPotato\\07.HotPotato.csproj|solutionrelative:07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A75F90B-7F09-4893-947B-4CEBC750C8BC}|06.Supermarket\\06.Supermarket.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A75F90B-7F09-4893-947B-4CEBC750C8BC}|06.Supermarket\\06.Supermarket.csproj|solutionrelative:06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C040756D-0F30-4370-BE9F-24831D1CB632}|05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\05.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C040756D-0F30-4370-BE9F-24831D1CB632}|05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj|solutionrelative:05.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8F0257-1014-4CA0-8229-604A0D4C9D5F}|04.MatchingBracket\\04.MatchingBracket.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\04.matchingbracket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8F0257-1014-4CA0-8229-604A0D4C9D5F}|04.MatchingBracket\\04.MatchingBracket.csproj|solutionrelative:04.matchingbracket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A966DAE2-CCE3-4B53-B383-E7EFF3087DAB}|03.SimpleCalculator\\03.SimpleCalculator.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\03.simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A966DAE2-CCE3-4B53-B383-E7EFF3087DAB}|03.SimpleCalculator\\03.SimpleCalculator.csproj|solutionrelative:03.simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94312F1D-7545-411A-89F1-CA6CAE222C7B}|02.StackSum\\02.StackSum.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94312F1D-7545-411A-89F1-CA6CAE222C7B}|02.StackSum\\02.StackSum.csproj|solutionrelative:02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECE6A56-4450-4AAF-B080-5D1E6A5D555D}|01.ReverseAString\\01.ReverseAString.csproj|d:\\my workflow\\c#\\advanced\\stackandqueues - lab\\01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECE6A56-4450-4AAF-B080-5D1E6A5D555D}|01.ReverseAString\\01.ReverseAString.csproj|solutionrelative:01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\08.TrafficJam\\Program.cs",
+              "RelativeDocumentMoniker": "08.TrafficJam\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\08.TrafficJam\\Program.cs",
+              "RelativeToolTip": "08.TrafficJam\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:22:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\07.HotPotato\\Program.cs",
+              "RelativeDocumentMoniker": "07.HotPotato\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\07.HotPotato\\Program.cs",
+              "RelativeToolTip": "07.HotPotato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:02:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\06.Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "06.Supermarket\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\06.Supermarket\\Program.cs",
+              "RelativeToolTip": "06.Supermarket\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:51:44.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\05.PrintEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.PrintEvenNumbers\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\05.PrintEvenNumbers\\Program.cs",
+              "RelativeToolTip": "05.PrintEvenNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:40:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\04.MatchingBracket\\Program.cs",
+              "RelativeDocumentMoniker": "04.MatchingBracket\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\04.MatchingBracket\\Program.cs",
+              "RelativeToolTip": "04.MatchingBracket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:19:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\03.SimpleCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "03.SimpleCalculator\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\03.SimpleCalculator\\Program.cs",
+              "RelativeToolTip": "03.SimpleCalculator\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:29:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\02.StackSum\\Program.cs",
+              "RelativeDocumentMoniker": "02.StackSum\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\02.StackSum\\Program.cs",
+              "RelativeToolTip": "02.StackSum\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:12:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\01.ReverseAString\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseAString\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\C#\\Advanced\\StackAndQueues - Lab\\01.ReverseAString\\Program.cs",
+              "RelativeToolTip": "01.ReverseAString\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:00:02.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

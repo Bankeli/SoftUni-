@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.AssemblyInfo.cs
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.sourcelink.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\bin\Debug\net8.0\GenericCount.exe
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\bin\Debug\net8.0\GenericCount.deps.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\bin\Debug\net8.0\GenericCount.runtimeconfig.json
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\bin\Debug\net8.0\GenericCount.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\bin\Debug\net8.0\GenericCount.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\refint\GenericCount.dll
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.pdb
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\GenericCount.genruntimeconfig.cache
+D:\My WorkFlow\Github\Exercises-and-projects\GenericBoxOfString\GenericCount\obj\Debug\net8.0\ref\GenericCount.dll
