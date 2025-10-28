@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\interfaces_and_abstraction-lab\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340F6AA-F959-40BD-8AD0-266FAEF3C46A}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Tesla.cs",
+              "RelativeDocumentMoniker": "Cars\\Tesla.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Tesla.cs",
+              "RelativeToolTip": "Cars\\Tesla.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:55:57.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Seat.cs",
+              "RelativeDocumentMoniker": "Cars\\Seat.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Seat.cs",
+              "RelativeToolTip": "Cars\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:55:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "Cars\\Car.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Car.cs",
+              "RelativeToolTip": "Cars\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:51:12.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IElectricCar.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\IElectricCar.cs",
+              "RelativeDocumentMoniker": "Cars\\IElectricCar.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\IElectricCar.cs",
+              "RelativeToolTip": "Cars\\IElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:50:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\ICar.cs",
+              "RelativeDocumentMoniker": "Cars\\ICar.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\ICar.cs",
+              "RelativeToolTip": "Cars\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:49:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars\\Program.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Interfaces_And_Abstraction-Lab\\Cars\\Program.cs",
+              "RelativeToolTip": "Cars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:48:47.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

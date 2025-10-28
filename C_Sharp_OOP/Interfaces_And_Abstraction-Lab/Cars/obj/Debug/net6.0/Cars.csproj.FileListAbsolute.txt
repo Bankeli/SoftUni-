@@ -1,0 +1,15 @@
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\bin\Debug\net6.0\Cars.exe
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\bin\Debug\net6.0\Cars.dll
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\bin\Debug\net6.0\Cars.pdb
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.sourcelink.json
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.dll
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.pdb
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\Projects\Github\SoftUni-\C_Sharp_OOP\Interfaces_And_Abstraction-Lab\Cars\obj\Debug\net6.0\ref\Cars.dll
