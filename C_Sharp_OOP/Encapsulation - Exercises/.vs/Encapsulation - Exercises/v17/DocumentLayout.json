@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\encapsulation - exercises\\shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\encapsulation - exercises\\shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|d:\\projects\\github\\softuni-\\c_sharp_oop\\encapsulation - exercises\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370E3302-6E32-4581-946F-E695B59E73C6}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Product.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Product.cs",
+              "RelativeToolTip": "ShoppingSpree\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:07:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Person.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Person.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Person.cs",
+              "RelativeToolTip": "ShoppingSpree\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:06:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Program.cs",
+              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Encapsulation - Exercises\\ShoppingSpree\\Program.cs",
+              "RelativeToolTip": "ShoppingSpree\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0MAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:06:32.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
