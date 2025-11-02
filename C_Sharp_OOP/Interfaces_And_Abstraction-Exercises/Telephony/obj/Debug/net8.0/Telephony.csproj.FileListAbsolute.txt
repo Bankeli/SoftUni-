@@ -1,0 +1,14 @@
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\bin\Debug\net8.0\Telephony.exe
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\bin\Debug\net8.0\Telephony.deps.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\bin\Debug\net8.0\Telephony.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\bin\Debug\net8.0\Telephony.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\bin\Debug\net8.0\Telephony.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\refint\Telephony.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\Telephony.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\Telephony\obj\Debug\net8.0\ref\Telephony.dll

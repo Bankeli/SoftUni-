@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\inferfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\inferfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\inferfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\inferfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|d:\\my workflow\\github\\c_sharp_oop\\interfaces_and_abstraction-exercises\\bordercontrol\\model\\inferfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E220F93-B219-40AF-A39D-880FE44BF67E}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\model\\inferfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IBirthable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Inferfaces\\IBirthable.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IBirthable.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Inferfaces\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:51:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Robot.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Robot.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Robot.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:25:17.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Inferfaces\\IPerson.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IPerson.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Inferfaces\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:22:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Citizen.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Citizen.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Citizen.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Citizen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:21:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Inferfaces\\IIdentifiable.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Inferfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Inferfaces\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:21:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Program.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Program.cs",
+              "RelativeToolTip": "BorderControl\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:17:40.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Pet.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Model\\Pet.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\C_Sharp_OOP\\Interfaces_And_Abstraction-Exercises\\BorderControl\\Model\\Pet.cs",
+              "RelativeToolTip": "BorderControl\\Model\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:56:15.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

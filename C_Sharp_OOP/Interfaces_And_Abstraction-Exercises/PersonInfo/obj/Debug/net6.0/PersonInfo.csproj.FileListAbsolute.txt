@@ -1,0 +1,14 @@
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\My WorkFlow\Github\C_Sharp_OOP\Interfaces_And_Abstraction-Exercises\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
