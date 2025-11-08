@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B376780F-64E4-4057-8378-B60BE50DDBA7}|Cards\\Cards.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exceptionanderror\\cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B376780F-64E4-4057-8378-B60BE50DDBA7}|Cards\\Cards.csproj|solutionrelative:cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C95A68C-421F-4D13-BE5D-7640633A0FA7}|MoneyTransaction\\MoneyTransaction.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exceptionanderror\\moneytransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C95A68C-421F-4D13-BE5D-7640633A0FA7}|MoneyTransaction\\MoneyTransaction.csproj|solutionrelative:moneytransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\Cards\\Program.cs",
+              "RelativeDocumentMoniker": "Cards\\Program.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\Cards\\Program.cs",
+              "RelativeToolTip": "Cards\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:55:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\MoneyTransaction\\Program.cs",
               "RelativeDocumentMoniker": "MoneyTransaction\\Program.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\MoneyTransaction\\Program.cs*",
-              "RelativeToolTip": "MoneyTransaction\\Program.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAA5AAAAAAAAAA==",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\MoneyTransaction\\Program.cs",
+              "RelativeToolTip": "MoneyTransaction\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T13:16:25.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\PlayCatch\\Program.cs",
               "RelativeDocumentMoniker": "PlayCatch\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "PlayCatch\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:37:06.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:37:06.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\SumOfIntegers\\Program.cs",
               "RelativeDocumentMoniker": "SumOfIntegers\\Program.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "SumOfIntegers\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:25:44.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:25:44.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\EnterNumbers\\Program.cs",
               "RelativeDocumentMoniker": "EnterNumbers\\Program.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "EnterNumbers\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:06:30.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:06:30.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExceptionAndError\\SquareRoot\\Program.cs",
               "RelativeDocumentMoniker": "SquareRoot\\Program.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "SquareRoot\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:02:04.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:02:04.79Z"
             }
           ]
         }

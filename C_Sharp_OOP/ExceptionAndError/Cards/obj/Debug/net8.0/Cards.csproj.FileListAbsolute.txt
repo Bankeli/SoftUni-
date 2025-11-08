@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\bin\Debug\net8.0\Cards.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\bin\Debug\net8.0\Cards.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\bin\Debug\net8.0\Cards.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\bin\Debug\net8.0\Cards.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\bin\Debug\net8.0\Cards.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\refint\Cards.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\Cards.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\Cards\obj\Debug\net8.0\ref\Cards.dll
