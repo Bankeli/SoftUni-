@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\bin\Debug\net8.0\SumOfIntegers.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\bin\Debug\net8.0\SumOfIntegers.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\bin\Debug\net8.0\SumOfIntegers.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\bin\Debug\net8.0\SumOfIntegers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\bin\Debug\net8.0\SumOfIntegers.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\refint\SumOfIntegers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\SumOfIntegers.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SumOfIntegers\obj\Debug\net8.0\ref\SumOfIntegers.dll

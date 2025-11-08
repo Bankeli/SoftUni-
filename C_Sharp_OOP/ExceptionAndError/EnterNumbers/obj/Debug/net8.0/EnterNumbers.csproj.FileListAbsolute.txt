@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\bin\Debug\net8.0\EnterNumbers.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\bin\Debug\net8.0\EnterNumbers.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\bin\Debug\net8.0\EnterNumbers.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\bin\Debug\net8.0\EnterNumbers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\bin\Debug\net8.0\EnterNumbers.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\refint\EnterNumbers.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\EnterNumbers.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\EnterNumbers\obj\Debug\net8.0\ref\EnterNumbers.dll

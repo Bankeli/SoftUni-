@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\bin\Debug\net8.0\MoneyTransaction.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\bin\Debug\net8.0\MoneyTransaction.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\bin\Debug\net8.0\MoneyTransaction.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\bin\Debug\net8.0\MoneyTransaction.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\bin\Debug\net8.0\MoneyTransaction.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\refint\MoneyTransaction.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\MoneyTransaction.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\MoneyTransaction\obj\Debug\net8.0\ref\MoneyTransaction.dll

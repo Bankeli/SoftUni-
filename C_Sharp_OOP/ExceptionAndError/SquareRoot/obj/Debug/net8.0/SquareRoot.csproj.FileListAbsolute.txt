@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\bin\Debug\net8.0\SquareRoot.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\bin\Debug\net8.0\SquareRoot.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\bin\Debug\net8.0\SquareRoot.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\bin\Debug\net8.0\SquareRoot.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\bin\Debug\net8.0\SquareRoot.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\refint\SquareRoot.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\SquareRoot.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExceptionAndError\SquareRoot\obj\Debug\net8.0\ref\SquareRoot.dll
