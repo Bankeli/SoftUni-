@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\models\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\models\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|d:\\projects\\github\\exercises-and-projects\\inventorysystem\\inventorysystem\\models\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DB1BB7-1188-4C25-9DE6-A77E5B1EA61F}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\models\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Models\\Inventory.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Inventory.cs",
+              "RelativeToolTip": "InventorySystem\\Models\\Inventory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:14:18.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Potion.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Models\\Potion.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Potion.cs",
+              "RelativeToolTip": "InventorySystem\\Models\\Potion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:11:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Models\\Weapon.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Weapon.cs",
+              "RelativeToolTip": "InventorySystem\\Models\\Weapon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:07:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Models\\Item.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Item.cs",
+              "RelativeToolTip": "InventorySystem\\Models\\Item.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:05:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Interfaces\\IItem.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Models\\Interfaces\\IItem.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Models\\Interfaces\\IItem.cs",
+              "RelativeToolTip": "InventorySystem\\Models\\Interfaces\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:04:31.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Program.cs",
+              "ToolTip": "D:\\Projects\\Github\\Exercises-and-projects\\InventorySystem\\InventorySystem\\Program.cs",
+              "RelativeToolTip": "InventorySystem\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:03:51.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+D:\Projects\Github\Exercises-and-projects\InventorySystem\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
