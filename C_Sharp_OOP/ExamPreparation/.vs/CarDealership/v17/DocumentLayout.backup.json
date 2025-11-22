@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\cardealership\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\cardealership\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\cardealership\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\cardealership\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8BBE57-4E54-46A4-A161-558B4FDE3566}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "CarDealership\\Utilities\\Results\\Expected.txt",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "CarDealership\\Utilities\\Results\\Expected.txt",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwFAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-22T13:20:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Core\\Controller.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Core\\Controller.cs",
+              "RelativeToolTip": "CarDealership\\Core\\Controller.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAnwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:26:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealership\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\StartUp.cs",
+              "RelativeToolTip": "CarDealership\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:26:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "CarDealership\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:51:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "CarDealership\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:24:08.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

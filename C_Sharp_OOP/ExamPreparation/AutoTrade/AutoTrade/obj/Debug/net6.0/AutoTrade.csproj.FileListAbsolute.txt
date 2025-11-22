@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\refint\AutoTrade.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\AutoTrade\AutoTrade\obj\Debug\net6.0\ref\AutoTrade.dll

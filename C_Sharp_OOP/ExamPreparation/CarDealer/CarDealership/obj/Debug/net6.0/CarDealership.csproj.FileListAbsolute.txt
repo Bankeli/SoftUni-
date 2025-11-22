@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\bin\Debug\net6.0\CarDealership.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\bin\Debug\net6.0\CarDealership.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\bin\Debug\net6.0\CarDealership.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\bin\Debug\net6.0\CarDealership.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\bin\Debug\net6.0\CarDealership.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\refint\CarDealership.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\CarDealership.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\CarDealership\obj\Debug\net6.0\ref\CarDealership.dll
