@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\InfluencerManager\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll
